@@ -3,7 +3,7 @@ import os
 
 url = "https://free.king361.cf/clash?ip=afosne.tk&port=2052"
 output_folder = "sub"
-output_filename = "king.json"
+output_filename = "king.yaml"
 
 # 发送HTTP请求
 response = requests.get(url)
