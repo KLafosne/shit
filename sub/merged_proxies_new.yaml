@@ -25,7 +25,7 @@ dns:
     ipcidr:
     - 240.0.0.0/4
 proxies:
-- name: 油管绵阿羊_Canada_vless_01
+- name: AFOSNE_Canada_vless_01
   type: vless
   server: dongtaiwang3.com
   port: 443
@@ -38,7 +38,7 @@ proxies:
     headers:
       host: dongtaiwang.dtku47.xyz
   client-fingerprint: chrome
-- name: 油管绵阿羊_Canada_vless_02
+- name: AFOSNE_Canada_vless_02
   type: vless
   server: dongtaiwang2.com
   port: 443
@@ -51,7 +51,7 @@ proxies:
     headers:
       host: dongtaiwang.dtku47.xyz
   client-fingerprint: chrome
-- name: 油管绵阿羊_Canada_vmess_11
+- name: AFOSNE_Canada_vmess_11
   type: vmess
   server: dongtaiwang2.com
   port: 443
@@ -66,7 +66,7 @@ proxies:
     path: /gzogws
     headers:
       host: xray1.freeh1.xyz
-- name: 油管绵阿羊_Canada_vless_21
+- name: AFOSNE_Canada_vless_21
   type: vless
   server: dongtaiwang2.com
   port: 443
@@ -79,7 +79,7 @@ proxies:
     headers:
       host: v2ray3.freegradely.xyz
   client-fingerprint: chrome
-- name: 油管绵阿羊_Canada_vless_31
+- name: AFOSNE_Canada_vless_31
   type: vless
   server: dongtaiwang3.com
   port: 443
@@ -92,7 +92,7 @@ proxies:
     headers:
       host: dongtaiwang.freeh1.xyz
   client-fingerprint: chrome
-- name: 油管绵阿羊_Canada_vmess_41
+- name: AFOSNE_Canada_vmess_41
   type: vmess
   server: dongtaiwang2.com
   port: 443
@@ -107,7 +107,7 @@ proxies:
     path: /gzogws
     headers:
       host: xray1.freeh1.xyz
-- name: 油管绵阿羊_Canada_vmess_51
+- name: AFOSNE_Canada_vmess_51
   type: vmess
   server: dongtaiwang3.com
   port: 443
@@ -122,7 +122,7 @@ proxies:
     path: /gzogws
     headers:
       host: xray1.freeh1.xyz
-- name: 油管绵阿羊_Taiwan_hysteria_61
+- name: AFOSNE_Taiwan_hysteria_61
   type: hysteria
   server: www2.dtku48.xyz
   port: 22334
@@ -133,7 +133,7 @@ proxies:
   up: 11 Mbps
   down: 55 Mbps
   skip-cert-verify: true
-- name: 油管绵阿羊_United States_hysteria_71
+- name: AFOSNE_United States_hysteria_71
   type: hysteria
   server: 64.110.25.10
   port: 44556
@@ -144,7 +144,7 @@ proxies:
   up: 11 Mbps
   down: 55 Mbps
   skip-cert-verify: true
-- name: 油管绵阿羊_United States_hysteria_81
+- name: AFOSNE_United States_hysteria_81
   type: hysteria
   server: 62.204.54.81
   port: 44550
@@ -156,7 +156,7 @@ proxies:
   auth_str: dongtaiwang.com
   up: 5
   down: 10
-- name: 油管绵阿羊_Taiwan_hysteria_91
+- name: AFOSNE_Taiwan_hysteria_91
   type: hysteria
   server: www.dtku50.xyz
   port: 32408
@@ -168,7 +168,7 @@ proxies:
   auth_str: dongtaiwang.com
   up: 2
   down: 10
-- name: 油管绵阿羊_United States_hy_0
+- name: AFOSNE_United States_hy_0
   type: hysteria
   server: 167.160.91.115
   port: 41189
@@ -182,7 +182,7 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: 油管绵阿羊_United States_hy_1
+- name: AFOSNE_United States_hy_1
   type: hysteria
   server: 173.234.25.52
   port: 30072
@@ -196,7 +196,7 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: 油管绵阿羊_United States_hy_2
+- name: AFOSNE_United States_hy_2
   type: hysteria
   server: 108.181.22.239
   port: 39967
@@ -210,7 +210,7 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: 油管绵阿羊_France_hy_3
+- name: AFOSNE_France_hy_3
   type: hysteria
   server: 51.158.54.46
   port: 55396
@@ -224,7 +224,7 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: 油管绵阿羊_United States_hy2_0
+- name: AFOSNE_United States_hy2_0
   type: hysteria2
   server: 64.110.25.11
   port: 33337
@@ -232,7 +232,7 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: 油管绵阿羊_United States_hy2_1
+- name: AFOSNE_United States_hy2_1
   type: hysteria2
   server: 64.110.25.11
   port: 33337
@@ -240,7 +240,7 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: 油管绵阿羊_United States_hy2_2
+- name: AFOSNE_United States_hy2_2
   type: hysteria2
   server: 64.110.25.11
   port: 33337
@@ -248,7 +248,7 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: 油管绵阿羊_United States_hy2_3
+- name: AFOSNE_United States_hy2_3
   type: hysteria2
   server: 64.110.25.11
   port: 33337
@@ -262,50 +262,50 @@ proxy-groups:
   proxies:
   - 自动选择
   - DIRECT
-  - 油管绵阿羊_Canada_vless_01
-  - 油管绵阿羊_Canada_vless_02
-  - 油管绵阿羊_Canada_vmess_11
-  - 油管绵阿羊_Canada_vless_21
-  - 油管绵阿羊_Canada_vless_31
-  - 油管绵阿羊_Canada_vmess_41
-  - 油管绵阿羊_Canada_vmess_51
-  - 油管绵阿羊_Taiwan_hysteria_61
-  - 油管绵阿羊_United States_hysteria_71
-  - 油管绵阿羊_United States_hysteria_81
-  - 油管绵阿羊_Taiwan_hysteria_91
-  - 油管绵阿羊_United States_hy_0
-  - 油管绵阿羊_United States_hy_1
-  - 油管绵阿羊_United States_hy_2
-  - 油管绵阿羊_France_hy_3
-  - 油管绵阿羊_United States_hy2_0
-  - 油管绵阿羊_United States_hy2_1
-  - 油管绵阿羊_United States_hy2_2
-  - 油管绵阿羊_United States_hy2_3
+  - AFOSNE_Canada_vless_01
+  - AFOSNE_Canada_vless_02
+  - AFOSNE_Canada_vmess_11
+  - AFOSNE_Canada_vless_21
+  - AFOSNE_Canada_vless_31
+  - AFOSNE_Canada_vmess_41
+  - AFOSNE_Canada_vmess_51
+  - AFOSNE_Taiwan_hysteria_61
+  - AFOSNE_United States_hysteria_71
+  - AFOSNE_United States_hysteria_81
+  - AFOSNE_Taiwan_hysteria_91
+  - AFOSNE_United States_hy_0
+  - AFOSNE_United States_hy_1
+  - AFOSNE_United States_hy_2
+  - AFOSNE_France_hy_3
+  - AFOSNE_United States_hy2_0
+  - AFOSNE_United States_hy2_1
+  - AFOSNE_United States_hy2_2
+  - AFOSNE_United States_hy2_3
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - 油管绵阿羊_Canada_vless_01
-  - 油管绵阿羊_Canada_vless_02
-  - 油管绵阿羊_Canada_vmess_11
-  - 油管绵阿羊_Canada_vless_21
-  - 油管绵阿羊_Canada_vless_31
-  - 油管绵阿羊_Canada_vmess_41
-  - 油管绵阿羊_Canada_vmess_51
-  - 油管绵阿羊_Taiwan_hysteria_61
-  - 油管绵阿羊_United States_hysteria_71
-  - 油管绵阿羊_United States_hysteria_81
-  - 油管绵阿羊_Taiwan_hysteria_91
-  - 油管绵阿羊_United States_hy_0
-  - 油管绵阿羊_United States_hy_1
-  - 油管绵阿羊_United States_hy_2
-  - 油管绵阿羊_France_hy_3
-  - 油管绵阿羊_United States_hy2_0
-  - 油管绵阿羊_United States_hy2_1
-  - 油管绵阿羊_United States_hy2_2
-  - 油管绵阿羊_United States_hy2_3
+  - AFOSNE_Canada_vless_01
+  - AFOSNE_Canada_vless_02
+  - AFOSNE_Canada_vmess_11
+  - AFOSNE_Canada_vless_21
+  - AFOSNE_Canada_vless_31
+  - AFOSNE_Canada_vmess_41
+  - AFOSNE_Canada_vmess_51
+  - AFOSNE_Taiwan_hysteria_61
+  - AFOSNE_United States_hysteria_71
+  - AFOSNE_United States_hysteria_81
+  - AFOSNE_Taiwan_hysteria_91
+  - AFOSNE_United States_hy_0
+  - AFOSNE_United States_hy_1
+  - AFOSNE_United States_hy_2
+  - AFOSNE_France_hy_3
+  - AFOSNE_United States_hy2_0
+  - AFOSNE_United States_hy2_1
+  - AFOSNE_United States_hy2_2
+  - AFOSNE_United States_hy2_3
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
