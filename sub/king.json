@@ -1,0 +1,116 @@
+
+    mixed-port: 7890
+    allow-lan: false
+    bind-address: '*'
+    mode: rule
+    log-level: info
+    ipv6: true
+    external-controller: 127.0.0.1:9090
+    experimental:
+      ignore-resolve-fail: true
+    sniffer:
+      enable: true
+      override-destination: true
+      force-dns-mapping: true
+      parse-pure-ip: true
+    dns:
+      enable: true
+      ipv6: true # false
+      enhanced-mode: fake-ip # redir-host / fake-ip
+      fake-ip-range: 198.18.0.1/16
+      fake-ip-filter:
+        - "*"
+        - "+.lan"
+        - "+.local"
+      use-hosts: true
+      default-nameserver: ['223.5.5.5', '119.29.29.29', '180.76.76.76', '114.114.114.114']
+      nameserver: ['https://doh.pub/dns-query', 'https://dns.alidns.com/dns-query']
+      #nameserver: ['tls://223.5.5.5:853', 'tls://1.12.12.12:853']
+      nameserver-policy:
+        #geosite:cn,private: ['udp://223.5.5.5:53', 'udp://119.29.29.29:53', 'udp://180.76.76.76:53', 'udp://114.114.114.114:53']
+        "geosite:cn,private": ['https://doh.pub/dns-query', 'https://dns.alidns.com/dns-query']
+        #"geosite:geolocation-!cn":
+        #  - "https://dns.google/dns-query#dns"
+        #  - "https://dns.cloudflare.com/dns-query#dns"
+      proxy-server-nameserver: ['https://doh.pub/dns-query']
+      fallback: ['tls://dns.google', 'https://1.0.0.1/dns-query']
+    
+    geodata-mode: true
+    geox-url:
+      geoip: "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.dat"
+      geosite: "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.dat"
+      mmdb: "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country.mmdb"
+    
+    ######### 锚点 start #######
+    # 策略组相关
+    p: &p {interval: 3600, health-check: {enable: true, url: https://www.gstatic.com/generate_204, interval: 300}, filter: "(?i)^(?!.*(?:t.me)).*"}
+    
+    # 引入proxy-provider 使用 use 关键字
+    u: &u {use: ['mjjonone']}  
+    
+    ######### 锚点 end #######
+    
+    proxy-providers:
+    
+      mjjonone:
+        <<: *p
+        type: http
+        url: https://free.king361.cf/v2?ip=afosne.tk&port=2052
+    
+    proxies:
+    
+    proxy-groups:
+      - { name: 🚀 节点选择, type: select, proxies: ['♻️ 自动选择',DIRECT], <<: *u }
+      - { name: ♻️ 自动选择, type: url-test, url: http://www.gstatic.com/generate_204, interval: 300, tolerance: 50, proxies: [], <<: *u }
+      - { name: ▶️ YouTube, type: select, proxies: ['🚀 节点选择','♻️ 自动选择'], <<: *u }
+      - { name: 📲 电报信息, type: select, proxies: ['🚀 节点选择','♻️ 自动选择'], <<: *u }
+      - { name: 🌼 ChatGPT, type: select, proxies: ['♻️ 自动选择'], <<: *u, filter: "(?i)^(?!.*(?:🇭🇰|港|hk|hongkong)).*" }
+    #  - { name: 🛑 全球拦截, type: select, proxies: [REJECT,DIRECT] }
+      - { name: 🐟 漏网之鱼, type: select, proxies: ['🚀 节点选择',DIRECT,'♻️ 自动选择'], <<: *u }
+    
+    rules:
+      # - AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(GEOSITE,geolocation-!cn),REJECT # quic
+      - RULE-SET,youtube_domain,▶️ YouTube
+      - DOMAIN,bard.google.com,🌼 ChatGPT
+      - GEOSITE,openai,🌼 ChatGPT
+      - RULE-SET,telegram_domain,📲 电报信息
+      - RULE-SET,telegram_ip,📲 电报信息
+      - DOMAIN,clash.razord.top,DIRECT
+      - DOMAIN,yacd.haishan.me,DIRECT
+      - RULE-SET,private,DIRECT
+    #  - RULE-SET,reject,🛑 全球拦截
+      - RULE-SET,icloud,🚀 节点选择
+      - RULE-SET,apple,🚀 节点选择
+      - RULE-SET,google,DIRECT
+      - RULE-SET,proxy,🚀 节点选择
+      - RULE-SET,direct,DIRECT
+      - RULE-SET,lancidr,DIRECT
+      - RULE-SET,cncidr,DIRECT
+      - RULE-SET,applications,DIRECT
+      - GEOIP,LAN,DIRECT
+      - GEOIP,CN,DIRECT
+      - MATCH,🐟 漏网之鱼
+    
+    rule-anchor:
+      ip: &ip {type: http, interval: 86400, behavior: ipcidr}
+      domain: &domain {type: http, interval: 86400, behavior: domain}
+      classical: &classical {type: http, interval: 86400, behavior: classical}
+    
+    rule-providers:
+      reject: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt" }
+      youtube_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.yaml" }
+      icloud: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt" }
+      apple: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt" }
+      google: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt" }
+      proxy: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt" }
+      direct: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt" }
+      private: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt" }
+      gfw: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt" }
+      greatfire: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt" }
+      tld-not-cn: { <<: *domain, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt" }
+      telegram_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml" }
+      telegram_ip: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.yaml" }
+      cncidr: { <<: *ip, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt" }
+      lancidr: { <<: *ip, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt" }
+      applications: { <<: *classical, url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt" }
+        
