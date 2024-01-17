@@ -265,7 +265,7 @@ def update_warp_proxy_groups(config_warp_data, merged_proxies):
 merged_proxies = []
 
 # 处理 clash URLs
-process_urls('./urls/clash_shit_urls.txt', process_clash_shit)
+process_urls('./urls/clash_shit_urls.txt', process_clash)
 
 process_urls('./urls/proxy.txt', process_proxy)
 
