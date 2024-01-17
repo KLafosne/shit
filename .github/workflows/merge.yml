@@ -23,15 +23,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run merge script
-        run: python meta_merge.py 
-
-      - name: Run shadowrocket merge script
-        run: python merge.py  
-      - name: Run sb script
-        run: python sb.py  
-      - name: Run king
-        run: python king.py  
+      - name: Run clash
+        run: python shit.py 
+      - name: Run base64
+        run: python shitss.py  
+      - name: Run sb
+        run: python shitsb.py  
       - name: Commit Changes
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
