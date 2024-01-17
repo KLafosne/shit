@@ -30,8 +30,6 @@ jobs:
         run: python merge.py  
       - name: Run sb script
         run: python sb.py  
-      - name: Run king script
-        run: python king.py  
       - name: Commit Changes
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
