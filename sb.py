@@ -1,7 +1,7 @@
 import requests
 import os
 
-url = "https://sing-box-subscribe.vercel.app/config/https:/mareep.netlify.app/sub/merged_proxies_new.yaml"
+url = "https://sing-box-subscribe.vercel.app/config/https:/afosnes.vercel.app/sub/merged_proxies_new.yaml"
 output_folder = "sub"
 output_filename = "sb.json"
 
