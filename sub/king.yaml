@@ -178,6 +178,142 @@ proxies:
     path: /dabai.in
     headers:
       Host: data-us-1.db-link01.top
+- name: AFOSNE_China_vmess_11
+  type: vmess
+  server: 112.26.46.129
+  port: 63051
+  uuid: 7f84583f-8b66-3a35-88b3-43bb9c485a50
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: cache-hk-2.cn-db.top
+  network: ws
+  ws-path: /db00
+  ws-headers:
+    Host: cache-hk-2.cn-db.top
+  ws-opts:
+    path: /db00
+    headers:
+      Host: cache-hk-2.cn-db.top
+- name: AFOSNE_China_vmess_12
+  type: vmess
+  server: 112.26.46.139
+  port: 63011
+  uuid: 7f84583f-8b66-3a35-88b3-43bb9c485a50
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: data-hk-2.cn-db.top
+  network: ws
+  ws-path: /db00
+  ws-headers:
+    Host: data-hk-2.cn-db.top
+  ws-opts:
+    path: /db00
+    headers:
+      Host: data-hk-2.cn-db.top
+- name: AFOSNE_China_vmess_13
+  type: vmess
+  server: 112.26.46.141
+  port: 64011
+  uuid: 7f84583f-8b66-3a35-88b3-43bb9c485a50
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: cache-hk-2.cn-db.top
+  network: ws
+  ws-path: /db00
+  ws-headers:
+    Host: cache-hk-2.cn-db.top
+  ws-opts:
+    path: /db00
+    headers:
+      Host: cache-hk-2.cn-db.top
+- name: AFOSNE_China_vmess_14
+  type: vmess
+  server: 112.26.46.141
+  port: 63002
+  uuid: 7f84583f-8b66-3a35-88b3-43bb9c485a50
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: cache-hk-1.cn-db.top
+  network: ws
+  ws-path: /db00
+  ws-headers:
+    Host: cache-hk-1.cn-db.top
+  ws-opts:
+    path: /db00
+    headers:
+      Host: cache-hk-1.cn-db.top
+- name: AFOSNE_China_vmess_15
+  type: vmess
+  server: 112.26.46.129
+  port: 64001
+  uuid: 7f84583f-8b66-3a35-88b3-43bb9c485a50
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: data-hk-3.cn-db.top
+  network: ws
+  ws-path: /db00
+  ws-headers:
+    Host: data-hk-3.cn-db.top
+  ws-opts:
+    path: /db00
+    headers:
+      Host: data-hk-3.cn-db.top
+- name: AFOSNE_China_vmess_16
+  type: vmess
+  server: 112.26.46.141
+  port: 61001
+  uuid: 7f84583f-8b66-3a35-88b3-43bb9c485a50
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: cache-hk-2.cn-db.top
+  network: ws
+  ws-path: /db00
+  ws-headers:
+    Host: cache-hk-2.cn-db.top
+  ws-opts:
+    path: /db00
+    headers:
+      Host: cache-hk-2.cn-db.top
+- name: AFOSNE_China_vmess_17
+  type: vmess
+  server: 112.26.46.141
+  port: 63005
+  uuid: 7f84583f-8b66-3a35-88b3-43bb9c485a50
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: cache-hk-1.cn-db.top
+  network: ws
+  ws-path: /db00
+  ws-headers:
+    Host: cache-hk-1.cn-db.top
+  ws-opts:
+    path: /db00
+    headers:
+      Host: cache-hk-1.cn-db.top
+- name: AFOSNE_China_vmess_18
+  type: vmess
+  server: 112.26.46.139
+  port: 61005
+  uuid: 7f84583f-8b66-3a35-88b3-43bb9c485a50
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: data-hk-1.cn-db.top
+  network: ws
+  ws-path: /db00
+  ws-headers:
+    Host: data-hk-1.cn-db.top
+  ws-opts:
+    path: /db00
+    headers:
+      Host: data-hk-1.cn-db.top
 proxy-groups:
 - name: 节点选择
   type: select
@@ -193,6 +329,14 @@ proxy-groups:
   - AFOSNE_China_vmess_07
   - AFOSNE_China_vmess_08
   - AFOSNE_China_vmess_09
+  - AFOSNE_China_vmess_11
+  - AFOSNE_China_vmess_12
+  - AFOSNE_China_vmess_13
+  - AFOSNE_China_vmess_14
+  - AFOSNE_China_vmess_15
+  - AFOSNE_China_vmess_16
+  - AFOSNE_China_vmess_17
+  - AFOSNE_China_vmess_18
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -208,6 +352,14 @@ proxy-groups:
   - AFOSNE_China_vmess_07
   - AFOSNE_China_vmess_08
   - AFOSNE_China_vmess_09
+  - AFOSNE_China_vmess_11
+  - AFOSNE_China_vmess_12
+  - AFOSNE_China_vmess_13
+  - AFOSNE_China_vmess_14
+  - AFOSNE_China_vmess_15
+  - AFOSNE_China_vmess_16
+  - AFOSNE_China_vmess_17
+  - AFOSNE_China_vmess_18
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
