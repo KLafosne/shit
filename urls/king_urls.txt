@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/KLafosne/web/main/ldb.yaml
+https://raw.githubusercontent.com/KLafosne/web/main/lad2.yaml
