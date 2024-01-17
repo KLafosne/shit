@@ -24,19 +24,190 @@ dns:
     geoip-code: CN
     ipcidr:
     - 240.0.0.0/4
-proxies: []
+proxies:
+- name: AFOSNE_China_vmess_01
+  type: vmess
+  server: 112.26.46.141
+  port: 64011
+  uuid: f4e09c0d-a74d-375d-a258-2a25b6777470
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: cache-us-1.db-link02.top
+  network: ws
+  ws-path: /dabai.in
+  ws-headers:
+    Host: cache-us-1.db-link02.top
+  ws-opts:
+    path: /dabai.in
+    headers:
+      Host: cache-us-1.db-link02.top
+- name: AFOSNE_China_vmess_02
+  type: vmess
+  server: 112.26.46.139
+  port: 63051
+  uuid: f4e09c0d-a74d-375d-a258-2a25b6777470
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: cache-us-1.db-link02.top
+  network: ws
+  ws-path: /dabai.in
+  ws-headers:
+    Host: cache-us-1.db-link02.top
+  ws-opts:
+    path: /dabai.in
+    headers:
+      Host: cache-us-1.db-link02.top
+- name: AFOSNE_China_vmess_03
+  type: vmess
+  server: 112.26.46.141
+  port: 64001
+  uuid: f4e09c0d-a74d-375d-a258-2a25b6777470
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: cache-us-1.db-link01.top
+  network: ws
+  ws-path: /dabai.in
+  ws-headers:
+    Host: cache-us-1.db-link01.top
+  ws-opts:
+    path: /dabai.in
+    headers:
+      Host: cache-us-1.db-link01.top
+- name: AFOSNE_China_vmess_04
+  type: vmess
+  server: 112.26.46.139
+  port: 62002
+  uuid: f4e09c0d-a74d-375d-a258-2a25b6777470
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: data-us-3.db-link02.top
+  network: ws
+  ws-path: /dabai.in
+  ws-headers:
+    Host: data-us-3.db-link02.top
+  ws-opts:
+    path: /dabai.in
+    headers:
+      Host: data-us-3.db-link02.top
+- name: AFOSNE_China_vmess_05
+  type: vmess
+  server: 112.26.46.141
+  port: 61002
+  uuid: f4e09c0d-a74d-375d-a258-2a25b6777470
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: data-us-3.db-link01.top
+  network: ws
+  ws-path: /dabai.in
+  ws-headers:
+    Host: data-us-3.db-link01.top
+  ws-opts:
+    path: /dabai.in
+    headers:
+      Host: data-us-3.db-link01.top
+- name: AFOSNE_China_vmess_06
+  type: vmess
+  server: 112.26.46.141
+  port: 61006
+  uuid: f4e09c0d-a74d-375d-a258-2a25b6777470
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: data-us-2.db-link02.top
+  network: ws
+  ws-path: /dabai.in
+  ws-headers:
+    Host: data-us-2.db-link02.top
+  ws-opts:
+    path: /dabai.in
+    headers:
+      Host: data-us-2.db-link02.top
+- name: AFOSNE_China_vmess_07
+  type: vmess
+  server: 112.26.46.141
+  port: 61001
+  uuid: f4e09c0d-a74d-375d-a258-2a25b6777470
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: data-us-2.db-link01.top
+  network: ws
+  ws-path: /dabai.in
+  ws-headers:
+    Host: data-us-2.db-link01.top
+  ws-opts:
+    path: /dabai.in
+    headers:
+      Host: data-us-2.db-link01.top
+- name: AFOSNE_China_vmess_08
+  type: vmess
+  server: 58.242.130.170
+  port: 39501
+  uuid: f4e09c0d-a74d-375d-a258-2a25b6777470
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: data-us-1.db-link02.top
+  network: ws
+  ws-path: /dabai.in
+  ws-headers:
+    Host: data-us-1.db-link02.top
+  ws-opts:
+    path: /dabai.in
+    headers:
+      Host: data-us-1.db-link02.top
+- name: AFOSNE_China_vmess_09
+  type: vmess
+  server: 112.26.46.141
+  port: 62002
+  uuid: f4e09c0d-a74d-375d-a258-2a25b6777470
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: data-us-1.db-link01.top
+  network: ws
+  ws-path: /dabai.in
+  ws-headers:
+    Host: data-us-1.db-link01.top
+  ws-opts:
+    path: /dabai.in
+    headers:
+      Host: data-us-1.db-link01.top
 proxy-groups:
 - name: 节点选择
   type: select
   proxies:
   - 自动选择
   - DIRECT
+  - AFOSNE_China_vmess_01
+  - AFOSNE_China_vmess_02
+  - AFOSNE_China_vmess_03
+  - AFOSNE_China_vmess_04
+  - AFOSNE_China_vmess_05
+  - AFOSNE_China_vmess_06
+  - AFOSNE_China_vmess_07
+  - AFOSNE_China_vmess_08
+  - AFOSNE_China_vmess_09
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
-  proxies: []
+  proxies:
+  - AFOSNE_China_vmess_01
+  - AFOSNE_China_vmess_02
+  - AFOSNE_China_vmess_03
+  - AFOSNE_China_vmess_04
+  - AFOSNE_China_vmess_05
+  - AFOSNE_China_vmess_06
+  - AFOSNE_China_vmess_07
+  - AFOSNE_China_vmess_08
+  - AFOSNE_China_vmess_09
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
