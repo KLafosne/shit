@@ -105,25 +105,25 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇨🇦 油管绵阿羊_Canada_vless_01",
-        "🇨🇦 油管绵阿羊_Canada_vless_02",
-        "🇨🇦 油管绵阿羊_Canada_vmess_11",
-        "🇨🇦 油管绵阿羊_Canada_vless_21",
-        "🇨🇦 油管绵阿羊_Canada_vless_31",
-        "🇨🇦 油管绵阿羊_Canada_vmess_41",
-        "🇨🇦 油管绵阿羊_Canada_vmess_51",
-        "🇹🇼 油管绵阿羊_Taiwan_hysteria_61",
-        "🇺🇸 油管绵阿羊_United States_hysteria_71",
-        "🇺🇸 油管绵阿羊_United States_hysteria_81",
-        "🇹🇼 油管绵阿羊_Taiwan_hysteria_91",
-        "🇺🇸 油管绵阿羊_United States_hy_0",
-        "🇺🇸 油管绵阿羊_United States_hy_1",
-        "🇺🇸 油管绵阿羊_United States_hy_2",
-        "🇫🇷 油管绵阿羊_France_hy_3",
-        "🇺🇸 油管绵阿羊_United States_hy2_0",
-        "🇺🇸 油管绵阿羊_United States_hy2_1",
-        "🇺🇸 油管绵阿羊_United States_hy2_2",
-        "🇺🇸 油管绵阿羊_United States_hy2_3"
+        "🇨🇦 AFOSNE_Canada_vless_01",
+        "🇨🇦 AFOSNE_Canada_vless_02",
+        "🇨🇦 AFOSNE_Canada_vmess_11",
+        "🇨🇦 AFOSNE_Canada_vless_21",
+        "🇨🇦 AFOSNE_Canada_vless_31",
+        "🇨🇦 AFOSNE_Canada_vmess_41",
+        "🇨🇦 AFOSNE_Canada_vmess_51",
+        "🇹🇼 AFOSNE_Taiwan_hysteria_61",
+        "🇺🇸 AFOSNE_United States_hysteria_71",
+        "🇺🇸 AFOSNE_United States_hysteria_81",
+        "🇹🇼 AFOSNE_Taiwan_hysteria_91",
+        "🇺🇸 AFOSNE_United States_hy_0",
+        "🇺🇸 AFOSNE_United States_hy_1",
+        "🇺🇸 AFOSNE_United States_hy_2",
+        "🇫🇷 AFOSNE_France_hy_3",
+        "🇺🇸 AFOSNE_United States_hy2_0",
+        "🇺🇸 AFOSNE_United States_hy2_1",
+        "🇺🇸 AFOSNE_United States_hy2_2",
+        "🇺🇸 AFOSNE_United States_hy2_3"
       ]
     },
     {
@@ -348,8 +348,8 @@
       "tag": "TaiWan",
       "type": "selector",
       "outbounds": [
-        "🇹🇼 油管绵阿羊_Taiwan_hysteria_61",
-        "🇹🇼 油管绵阿羊_Taiwan_hysteria_91",
+        "🇹🇼 AFOSNE_Taiwan_hysteria_61",
+        "🇹🇼 AFOSNE_Taiwan_hysteria_91",
         "proxy"
       ]
     },
@@ -371,15 +371,15 @@
       "tag": "America",
       "type": "selector",
       "outbounds": [
-        "🇺🇸 油管绵阿羊_United States_hysteria_71",
-        "🇺🇸 油管绵阿羊_United States_hysteria_81",
-        "🇺🇸 油管绵阿羊_United States_hy_0",
-        "🇺🇸 油管绵阿羊_United States_hy_1",
-        "🇺🇸 油管绵阿羊_United States_hy_2",
-        "🇺🇸 油管绵阿羊_United States_hy2_0",
-        "🇺🇸 油管绵阿羊_United States_hy2_1",
-        "🇺🇸 油管绵阿羊_United States_hy2_2",
-        "🇺🇸 油管绵阿羊_United States_hy2_3",
+        "🇺🇸 AFOSNE_United States_hysteria_71",
+        "🇺🇸 AFOSNE_United States_hysteria_81",
+        "🇺🇸 AFOSNE_United States_hy_0",
+        "🇺🇸 AFOSNE_United States_hy_1",
+        "🇺🇸 AFOSNE_United States_hy_2",
+        "🇺🇸 AFOSNE_United States_hy2_0",
+        "🇺🇸 AFOSNE_United States_hy2_1",
+        "🇺🇸 AFOSNE_United States_hy2_2",
+        "🇺🇸 AFOSNE_United States_hy2_3",
         "proxy"
       ]
     },
@@ -387,14 +387,14 @@
       "tag": "Others",
       "type": "selector",
       "outbounds": [
-        "🇨🇦 油管绵阿羊_Canada_vless_01",
-        "🇨🇦 油管绵阿羊_Canada_vless_02",
-        "🇨🇦 油管绵阿羊_Canada_vmess_11",
-        "🇨🇦 油管绵阿羊_Canada_vless_21",
-        "🇨🇦 油管绵阿羊_Canada_vless_31",
-        "🇨🇦 油管绵阿羊_Canada_vmess_41",
-        "🇨🇦 油管绵阿羊_Canada_vmess_51",
-        "🇫🇷 油管绵阿羊_France_hy_3",
+        "🇨🇦 AFOSNE_Canada_vless_01",
+        "🇨🇦 AFOSNE_Canada_vless_02",
+        "🇨🇦 AFOSNE_Canada_vmess_11",
+        "🇨🇦 AFOSNE_Canada_vless_21",
+        "🇨🇦 AFOSNE_Canada_vless_31",
+        "🇨🇦 AFOSNE_Canada_vmess_41",
+        "🇨🇦 AFOSNE_Canada_vmess_51",
+        "🇫🇷 AFOSNE_France_hy_3",
         "proxy"
       ]
     },
@@ -402,25 +402,25 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇦 油管绵阿羊_Canada_vless_01",
-        "🇨🇦 油管绵阿羊_Canada_vless_02",
-        "🇨🇦 油管绵阿羊_Canada_vmess_11",
-        "🇨🇦 油管绵阿羊_Canada_vless_21",
-        "🇨🇦 油管绵阿羊_Canada_vless_31",
-        "🇨🇦 油管绵阿羊_Canada_vmess_41",
-        "🇨🇦 油管绵阿羊_Canada_vmess_51",
-        "🇹🇼 油管绵阿羊_Taiwan_hysteria_61",
-        "🇺🇸 油管绵阿羊_United States_hysteria_71",
-        "🇺🇸 油管绵阿羊_United States_hysteria_81",
-        "🇹🇼 油管绵阿羊_Taiwan_hysteria_91",
-        "🇺🇸 油管绵阿羊_United States_hy_0",
-        "🇺🇸 油管绵阿羊_United States_hy_1",
-        "🇺🇸 油管绵阿羊_United States_hy_2",
-        "🇫🇷 油管绵阿羊_France_hy_3",
-        "🇺🇸 油管绵阿羊_United States_hy2_0",
-        "🇺🇸 油管绵阿羊_United States_hy2_1",
-        "🇺🇸 油管绵阿羊_United States_hy2_2",
-        "🇺🇸 油管绵阿羊_United States_hy2_3"
+        "🇨🇦 AFOSNE_Canada_vless_01",
+        "🇨🇦 AFOSNE_Canada_vless_02",
+        "🇨🇦 AFOSNE_Canada_vmess_11",
+        "🇨🇦 AFOSNE_Canada_vless_21",
+        "🇨🇦 AFOSNE_Canada_vless_31",
+        "🇨🇦 AFOSNE_Canada_vmess_41",
+        "🇨🇦 AFOSNE_Canada_vmess_51",
+        "🇹🇼 AFOSNE_Taiwan_hysteria_61",
+        "🇺🇸 AFOSNE_United States_hysteria_71",
+        "🇺🇸 AFOSNE_United States_hysteria_81",
+        "🇹🇼 AFOSNE_Taiwan_hysteria_91",
+        "🇺🇸 AFOSNE_United States_hy_0",
+        "🇺🇸 AFOSNE_United States_hy_1",
+        "🇺🇸 AFOSNE_United States_hy_2",
+        "🇫🇷 AFOSNE_France_hy_3",
+        "🇺🇸 AFOSNE_United States_hy2_0",
+        "🇺🇸 AFOSNE_United States_hy2_1",
+        "🇺🇸 AFOSNE_United States_hy2_2",
+        "🇺🇸 AFOSNE_United States_hy2_3"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -439,7 +439,7 @@
       "tag": "block"
     },
     {
-      "tag": "🇨🇦 油管绵阿羊_Canada_vless_01",
+      "tag": "🇨🇦 AFOSNE_Canada_vless_01",
       "type": "vless",
       "server": "dongtaiwang3.com",
       "server_port": 443,
@@ -463,7 +463,7 @@
       }
     },
     {
-      "tag": "🇨🇦 油管绵阿羊_Canada_vless_02",
+      "tag": "🇨🇦 AFOSNE_Canada_vless_02",
       "type": "vless",
       "server": "dongtaiwang2.com",
       "server_port": 443,
@@ -487,7 +487,7 @@
       }
     },
     {
-      "tag": "🇨🇦 油管绵阿羊_Canada_vmess_11",
+      "tag": "🇨🇦 AFOSNE_Canada_vmess_11",
       "type": "vmess",
       "server": "dongtaiwang2.com",
       "server_port": 443,
@@ -506,7 +506,7 @@
       }
     },
     {
-      "tag": "🇨🇦 油管绵阿羊_Canada_vless_21",
+      "tag": "🇨🇦 AFOSNE_Canada_vless_21",
       "type": "vless",
       "server": "dongtaiwang2.com",
       "server_port": 443,
@@ -530,7 +530,7 @@
       }
     },
     {
-      "tag": "🇨🇦 油管绵阿羊_Canada_vless_31",
+      "tag": "🇨🇦 AFOSNE_Canada_vless_31",
       "type": "vless",
       "server": "dongtaiwang3.com",
       "server_port": 443,
@@ -554,7 +554,7 @@
       }
     },
     {
-      "tag": "🇨🇦 油管绵阿羊_Canada_vmess_41",
+      "tag": "🇨🇦 AFOSNE_Canada_vmess_41",
       "type": "vmess",
       "server": "dongtaiwang2.com",
       "server_port": 443,
@@ -573,7 +573,7 @@
       }
     },
     {
-      "tag": "🇨🇦 油管绵阿羊_Canada_vmess_51",
+      "tag": "🇨🇦 AFOSNE_Canada_vmess_51",
       "type": "vmess",
       "server": "dongtaiwang3.com",
       "server_port": 443,
@@ -592,7 +592,7 @@
       }
     },
     {
-      "tag": "🇹🇼 油管绵阿羊_Taiwan_hysteria_61",
+      "tag": "🇹🇼 AFOSNE_Taiwan_hysteria_61",
       "type": "hysteria",
       "server": "www2.dtku48.xyz",
       "server_port": 22334,
@@ -609,7 +609,7 @@
       }
     },
     {
-      "tag": "🇺🇸 油管绵阿羊_United States_hysteria_71",
+      "tag": "🇺🇸 AFOSNE_United States_hysteria_71",
       "type": "hysteria",
       "server": "64.110.25.10",
       "server_port": 44556,
@@ -626,7 +626,7 @@
       }
     },
     {
-      "tag": "🇺🇸 油管绵阿羊_United States_hysteria_81",
+      "tag": "🇺🇸 AFOSNE_United States_hysteria_81",
       "type": "hysteria",
       "server": "62.204.54.81",
       "server_port": 62946,
@@ -643,7 +643,7 @@
       }
     },
     {
-      "tag": "🇹🇼 油管绵阿羊_Taiwan_hysteria_91",
+      "tag": "🇹🇼 AFOSNE_Taiwan_hysteria_91",
       "type": "hysteria",
       "server": "www.dtku50.xyz",
       "server_port": 32408,
@@ -660,7 +660,7 @@
       }
     },
     {
-      "tag": "🇺🇸 油管绵阿羊_United States_hy_0",
+      "tag": "🇺🇸 AFOSNE_United States_hy_0",
       "type": "hysteria",
       "server": "167.160.91.115",
       "server_port": 41189,
@@ -677,7 +677,7 @@
       }
     },
     {
-      "tag": "🇺🇸 油管绵阿羊_United States_hy_1",
+      "tag": "🇺🇸 AFOSNE_United States_hy_1",
       "type": "hysteria",
       "server": "173.234.25.52",
       "server_port": 30072,
@@ -694,7 +694,7 @@
       }
     },
     {
-      "tag": "🇺🇸 油管绵阿羊_United States_hy_2",
+      "tag": "🇺🇸 AFOSNE_United States_hy_2",
       "type": "hysteria",
       "server": "108.181.22.239",
       "server_port": 39967,
@@ -711,7 +711,7 @@
       }
     },
     {
-      "tag": "🇫🇷 油管绵阿羊_France_hy_3",
+      "tag": "🇫🇷 AFOSNE_France_hy_3",
       "type": "hysteria",
       "server": "51.158.54.46",
       "server_port": 55396,
@@ -728,7 +728,7 @@
       }
     },
     {
-      "tag": "🇺🇸 油管绵阿羊_United States_hy2_0",
+      "tag": "🇺🇸 AFOSNE_United States_hy2_0",
       "type": "hysteria2",
       "server": "64.110.25.11",
       "server_port": 33337,
@@ -745,7 +745,7 @@
       }
     },
     {
-      "tag": "🇺🇸 油管绵阿羊_United States_hy2_1",
+      "tag": "🇺🇸 AFOSNE_United States_hy2_1",
       "type": "hysteria2",
       "server": "64.110.25.11",
       "server_port": 33337,
@@ -762,7 +762,7 @@
       }
     },
     {
-      "tag": "🇺🇸 油管绵阿羊_United States_hy2_2",
+      "tag": "🇺🇸 AFOSNE_United States_hy2_2",
       "type": "hysteria2",
       "server": "64.110.25.11",
       "server_port": 33337,
@@ -779,7 +779,7 @@
       }
     },
     {
-      "tag": "🇺🇸 油管绵阿羊_United States_hy2_3",
+      "tag": "🇺🇸 AFOSNE_United States_hy2_3",
       "type": "hysteria2",
       "server": "64.110.25.11",
       "server_port": 33337,
