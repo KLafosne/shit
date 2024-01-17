@@ -322,7 +322,7 @@ try:
         content = file.read()
         encoded_content = base64.b64encode(content.encode("utf-8")).decode("utf-8")
     
-    with open("./sub/shit.json", "w") as encoded_file:
+    with open("./sub/shit", "w") as encoded_file:
         encoded_file.write(encoded_content)
         
     print("Content successfully encoded and written to file.")
