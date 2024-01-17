@@ -293,21 +293,21 @@ merged_proxies = []
 # 处理 clash URLs
 process_urls('./urls/clash_shit_urls.txt', process_clash)
 
-process_urls('./urls/proxy.txt', process_proxy)
+# process_urls('./urls/proxy.txt', process_proxy)
 
-process_urls('./urls/clash_new_urls.txt', process_clash)
+# process_urls('./urls/clash_new_urls.txt', process_clash)
 
 # 处理 shadowtls URLs
-process_urls('./urls/sb_urls.txt', process_sb)
+# process_urls('./urls/sb_urls.txt', process_sb)
 
 # 处理 hysteria URLs
-process_urls('./urls/hysteria_urls.txt', process_hysteria)
+# process_urls('./urls/hysteria_urls.txt', process_hysteria)
 
 # 处理 hysteria2 URLs
-process_urls('./urls/hysteria2_urls.txt', process_hysteria2)
+# process_urls('./urls/hysteria2_urls.txt', process_hysteria2)
 
 # 处理 xray URLs
-process_urls('./urls/xray_urls.txt', process_xray)
+# process_urls('./urls/xray_urls.txt', process_xray)
 
 # 将结果写入文件
 try:
