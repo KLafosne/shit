@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/KLafosne/web/main/shit1.yaml
+https://raw.githubusercontent.com/KLafosne/web/main/shit2.yaml
