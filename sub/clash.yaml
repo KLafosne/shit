@@ -25,967 +25,498 @@ dns:
     ipcidr:
     - 240.0.0.0/4
 proxies:
-- name: AFOSNE_Sweden_ss_01
-  server: 121.127.46.147
-  type: ss
-  country: 🇦🇫AF
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_Argentina_ss_02
-  server: 190.103.176.29
-  type: ss
-  country: 🇦🇷AR
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_Bosnia and Herzegovina_ss_03
-  server: 185.164.35.9
-  type: ss
-  country: 🇧🇦BA
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_Chile_ss_04
-  server: 190.120.230.9
-  type: ss
-  country: 🇨🇱CL
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_Japan_vmess_05
-  server: 109.123.230.157
-  type: vmess
-  country: 🇨🇿CZ
-  port: 80
-  uuid: 877aa2a8-5854-4cb2-9aba-4a1413a6b2de
-  alterId: 0
-  cipher: auto
-  network: ws
-  servername: dl.kgvn.garenanow.com
-  http-opts: {}
-  h2-opts: {}
-  skip-cert-verify: true
-  ws-opts:
-    path: /takeshi.wiki
-    headers:
-      HOST: dl.kgvn.garenanow.com
-- name: AFOSNE_Japan_vmess_06
-  server: jp.takeshi.wiki
-  type: vmess
-  country: 🇨🇿CZ
-  port: 80
-  uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546
-  alterId: 0
-  cipher: auto
-  network: ws
-  servername: internet.life.com.by
-  http-opts: {}
-  h2-opts: {}
-  skip-cert-verify: true
-  ws-opts:
-    path: /takeshi.wiki
-    headers:
-      HOST: internet.life.com.by
-- name: AFOSNE_Japan_vmess_07
-  server: jp.takeshi.wiki
-  type: vmess
-  country: 🇨🇿CZ
-  port: 80
-  uuid: a19f357b-c836-4cf6-9e43-72390e6a00df
-  alterId: 0
-  cipher: auto
-  network: ws
-  servername: dl.kgvn.garenanow.com
-  http-opts: {}
-  h2-opts: {}
-  skip-cert-verify: true
-  ws-opts:
-    path: /takeshi.wiki
-    headers:
-      HOST: dl.kgvn.garenanow.com
-- name: AFOSNE_Japan_vmess_08
-  server: jp.takeshi.wiki
-  type: vmess
-  country: 🇨🇿CZ
-  port: 80
-  uuid: 803b8c6b-192e-4500-a919-485566f8e058
-  alterId: 0
-  cipher: auto
-  network: ws
-  servername: dl.kgvn.garenanow.com
-  http-opts: {}
-  h2-opts: {}
-  skip-cert-verify: true
-  ws-opts:
-    path: /takeshi.wiki
-    headers:
-      HOST: dl.kgvn.garenanow.com
-- name: AFOSNE_Germany_vmess_09
-  server: 217.160.45.31
-  type: vmess
-  country: 🇩🇪DE
-  port: 8880
-  uuid: 4e186678-fcca-4325-e4bc-b2916bdf6708
-  alterId: 0
-  cipher: auto
-  network: ws
-  http-opts: {}
-  h2-opts: {}
-  skip-cert-verify: true
-  ws-opts:
-    path: /
-- name: AFOSNE_France_ss_010
-  server: 195.154.185.174
-  type: ss
-  country: 🇫🇷FR
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_Germany_ss_011
-  server: 145.239.1.100
-  type: ss
-  country: 🇫🇷FR
-  port: 8882
-  password: kDWvXYZoTBcGkC4
-  cipher: aes-256-gcm
-- name: AFOSNE_France_ss_012
-  server: 51.158.150.168
-  type: ss
-  country: 🇫🇷FR
-  port: 4444
-  password: pKEW8JPByTVTLtM
-  cipher: aes-256-gcm
-- name: AFOSNE_France_ss_013
-  server: 145.239.6.202
-  type: ss
-  country: 🇫🇷FR
-  port: 4444
-  password: pKEW8JPByTVTLtM
-  cipher: aes-256-gcm
-- name: AFOSNE_France_ss_014
-  server: 149.202.82.172
-  type: ss
-  country: 🇫🇷FR
-  port: 8080
-  password: KixLvKzwjekG00rm
-  cipher: aes-256-gcm
-- name: AFOSNE_Germany_ss_015
-  server: 145.239.1.100
-  type: ss
-  country: 🇫🇷FR
-  port: 8888
-  password: Y6R9pAtvxxzmGC
-  cipher: aes-256-gcm
-- name: AFOSNE_Germany_ss_016
-  server: 145.239.1.100
-  type: ss
-  country: 🇫🇷FR
-  port: 8080
-  password: KixLvKzwjekG00rm
-  cipher: aes-256-gcm
-- name: AFOSNE_France_ss_017
-  server: 149.202.82.172
-  type: ss
-  country: 🇫🇷FR
-  port: 6697
-  password: TEzjfAYq2IjtuoS
-  cipher: aes-256-gcm
-- name: AFOSNE_France_ss_018
-  server: 54.36.174.181
-  type: ss
-  country: 🇫🇷FR
-  port: 8090
-  password: PCnnH6SQSnfoS27
-  cipher: aes-256-gcm
-- name: AFOSNE_France_ss_019
-  server: 195.154.169.198
-  type: ss
-  country: 🇫🇷FR
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_France_ss_020
-  server: 54.36.174.181
-  type: ss
-  country: 🇫🇷FR
-  port: 5001
-  password: Y6R9pAtvxxzmGC
-  cipher: aes-256-gcm
-- name: AFOSNE_France_ss_021
-  server: 51.159.111.208
-  type: ss
-  country: 🇫🇷FR
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_Germany_ss_022
-  server: 217.182.198.219
-  type: ss
-  country: 🇫🇷FR
-  port: 3389
-  password: Y6R9pAtvxxzmGC
-  cipher: aes-256-gcm
-- name: AFOSNE_United Kingdom_ss_023
-  server: 77.72.5.113
-  type: ss
-  country: 🇬🇧GB
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_United Kingdom_ss_024
-  server: 77.72.5.150
-  type: ss
-  country: 🇬🇧GB
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_United Kingdom_ss_025
-  server: 212.102.53.80
-  type: ss
-  country: 🇬🇧GB
-  port: 443
-  password: shadowsocks
-  cipher: aes-128-gcm
-- name: AFOSNE_United Kingdom_ss_026
-  server: series-a2-mec.samanehha.co
-  type: ss
-  country: 🇬🇧GB
-  port: 443
-  password: u17T3BvpYaaiuW2c
-  cipher: chacha20-ietf-poly1305
-- name: AFOSNE_United Kingdom_ss_027
-  server: series-a1.samanehha.co
-  type: ss
-  country: 🇬🇧GB
-  port: 443
-  password: W74XFALLLuw6m5IA
-  cipher: chacha20-ietf-poly1305
-- name: AFOSNE_United Kingdom_ss_028
-  server: series-a2.samanehha.co
-  type: ss
-  country: 🇬🇧GB
-  port: 443
-  password: mps3FwmDjLrWaOVg
-  cipher: chacha20-ietf-poly1305
-- name: AFOSNE_United Kingdom_ss_029
-  server: series-a2-me.samanehha.co
-  type: ss
-  country: 🇬🇧GB
-  port: 443
-  password: Bog0ELmMM9DSxDdQ
-  cipher: chacha20-ietf-poly1305
-- name: AFOSNE_United Kingdom_vmess_030
-  server: 172.99.190.109
-  type: vmess
-  country: 🇬🇧GB
-  port: 443
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  alterId: 0
-  cipher: auto
-  network: ws
-  http-opts: {}
-  h2-opts: {}
-  tls: true
-  skip-cert-verify: true
-  ws-opts:
-    path: linkvws
-- name: AFOSNE_Hong Kong_ss_031
-  server: 8.210.231.146
-  type: ss
-  country: 🇭🇰HK
-  port: 1146
-  password: jmtgsmW40R
-  cipher: aes-256-gcm
-- name: AFOSNE_Hong Kong_ssr_032
-  server: 150.107.46.21
-  type: ssr
-  country: 🇭🇰HK
-  port: 8083
-  password: iFqnzSscN
-  cipher: aes-256-cfb
-  protocol: origin
-  obfs: tls1.2_ticket_auth
-  group: Update-二爷
-- name: AFOSNE_Azerbaijan_ss_033
-  server: 180.149.44.120
-  type: ss
-  country: 🇮🇳IN
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_Japan_ss_034
-  server: 52.194.252.137
-  type: ss
-  country: 🇯🇵JP
-  port: 443
-  password: amazonskr05
-  cipher: aes-256-cfb
-- name: AFOSNE_Japan_ss_035
-  server: 13.231.210.254
-  type: ss
-  country: 🇯🇵JP
-  port: 443
-  password: amazonskr05
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_036
-  server: p230.panda004.net
-  type: ss
-  country: 🇰🇷KR
-  port: 59084
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_037
-  server: p235.panda004.net
-  type: ss
-  country: 🇰🇷KR
-  port: 2212
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_038
-  server: p237.panda004.net
-  type: ss
-  country: 🇰🇷KR
-  port: 2003
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_039
-  server: p232.panda004.net
-  type: ss
-  country: 🇰🇷KR
-  port: 4398
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_040
-  server: p110.panda001.net
-  type: ss
-  country: 🇰🇷KR
-  port: 54345
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_041
-  server: p229.panda004.net
-  type: ss
-  country: 🇰🇷KR
-  port: 57428
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_042
-  server: p236.panda004.net
-  type: ss
-  country: 🇰🇷KR
-  port: 58023
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_043
-  server: p225.panda004.net
-  type: ss
-  country: 🇰🇷KR
-  port: 51194
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_044
-  server: p228.panda004.net
-  type: ss
-  country: 🇰🇷KR
-  port: 59084
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_045
-  server: p141.panda001.net
-  type: ss
-  country: 🇰🇷KR
-  port: 54345
-  password: qwerREWQ@@
-  cipher: aes-256-cfb
-- name: AFOSNE_Mexico_ss_046
-  server: 190.103.179.23
-  type: ss
-  country: 🇲🇽MX
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_Panama_ss_047
-  server: 138.186.142.4
-  type: ss
-  country: 🇵🇦PA
-  port: 989
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
-- name: AFOSNE_Poland_ss_048
-  server: 217.30.10.68
-  type: ss
-  country: 🇵🇱PL
-  port: 9026
-  password: QWDDvVE9npNurQfA
-  cipher: aes-256-cfb
-- name: AFOSNE_Poland_ss_049
-  server: 217.30.10.68
-  type: ss
-  country: 🇵🇱PL
-  port: 9038
-  password: gYCYXfkUQEs2TaJQ
-  cipher: aes-256-cfb
-- name: AFOSNE_Poland_ss_050
-  server: 217.30.10.68
-  type: ss
-  country: 🇵🇱PL
-  port: 9033
-  password: UTJA57ypk2XKQpnm
-  cipher: aes-256-cfb
-- name: AFOSNE_Poland_ss_051
-  server: 217.30.10.70
-  type: ss
-  country: 🇵🇱PL
-  port: 9044
-  password: KBGjZYcy4SyRShmA
-  cipher: aes-256-cfb
-- name: AFOSNE_Poland_ss_052
-  server: 217.30.10.68
-  type: ss
-  country: 🇵🇱PL
-  port: 9005
-  password: ZET59LF6DvCC8KVt
-  cipher: aes-256-cfb
-- name: AFOSNE_Poland_ss_053
-  server: 217.30.10.68
-  type: ss
-  country: 🇵🇱PL
-  port: 9079
-  password: TPqX8edgbAURcAMb
-  cipher: aes-256-cfb
-- name: AFOSNE_Poland_ss_054
-  server: 217.30.10.68
-  type: ss
-  country: 🇵🇱PL
-  port: 9073
-  password: daFYagqDdBdA6VTX
-  cipher: aes-256-cfb
-- name: AFOSNE_Singapore_ss_055
-  server: 13.250.25.60
-  type: ss
-  country: 🇸🇬SG
-  port: 443
-  password: amazonskr05
-  cipher: aes-256-cfb
-- name: AFOSNE_Singapore_ss_056
-  server: 103.172.116.94
-  type: ss
-  country: 🇸🇬SG
-  port: 9018
-  password: fG2artUmHfNT2cX7
-  cipher: aes-256-cfb
-- name: AFOSNE_Singapore_ss_057
-  server: 13.212.206.130
-  type: ss
-  country: 🇸🇬SG
-  port: 443
-  password: amazonskr05
-  cipher: aes-256-cfb
-- name: AFOSNE_Singapore_ss_058
-  server: 54.169.114.116
-  type: ss
-  country: 🇸🇬SG
-  port: 443
-  password: amazonskr05
-  cipher: aes-256-cfb
-- name: AFOSNE_South Korea_ss_059
-  server: 43.201.100.232
-  type: ss
-  country: 🇺🇸US
-  port: 443
-  password: amazonskr05
-  cipher: aes-256-cfb
-- name: AFOSNE_United States_ss_060
-  server: 38.68.134.202
-  type: ss
-  country: 🇺🇸US
-  port: 8091
-  password: PCnnH6SQSnfoS27
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_061
-  server: 54.185.37.169
-  type: ss
-  country: 🇺🇸US
-  port: 443
-  password: amazonskr05
-  cipher: aes-256-cfb
-- name: AFOSNE_United States_ss_062
-  server: 38.68.134.202
-  type: ss
-  country: 🇺🇸US
-  port: 5003
-  password: g5MeD6Ft3CWlJId
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_063
-  server: 38.121.43.65
-  type: ss
-  country: 🇺🇸US
-  port: 8888
-  password: Y6R9pAtvxxzmGC
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_064
-  server: 38.121.43.65
-  type: ss
-  country: 🇺🇸US
-  port: 2375
-  password: faBAoD54k87UJG7
-  cipher: aes-256-gcm
-- name: AFOSNE_South Korea_ss_065
-  server: 43.200.254.135
-  type: ss
-  country: 🇺🇸US
-  port: 443
-  password: amazonskr05
-  cipher: aes-256-cfb
-- name: AFOSNE_United States_ss_066
-  server: 212.102.47.198
-  type: ss
-  country: 🇺🇸US
-  port: 443
-  password: shadowsocks
-  cipher: aes-128-cfb
-- name: AFOSNE_Japan_ss_067
-  server: 43.207.197.15
-  type: ss
-  country: 🇺🇸US
-  port: 443
-  password: amazonskr05
-  cipher: aes-256-cfb
-- name: AFOSNE_United States_ss_068
-  server: 45.58.39.13
-  type: ss
-  country: 🇺🇸US
-  port: 58428
-  password: 31LdYhP8Ae
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_069
-  server: 38.121.43.65
-  type: ss
-  country: 🇺🇸US
-  port: 8080
-  password: KixLvKzwjekG00rm
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_070
-  server: 38.68.134.202
-  type: ss
-  country: 🇺🇸US
-  port: 2375
-  password: faBAoD54k87UJG7
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_071
-  server: beeconf.xyz
-  type: ss
-  country: 🇺🇸US
-  port: 8080
-  password: ezesBXesf3RKBCp1vqKuIx
-  cipher: chacha20-ietf-poly1305
-- name: AFOSNE_United States_ss_072
-  server: 169.197.141.186
-  type: ss
-  country: 🇺🇸US
-  port: 801
-  password: tvX1v#NSFP_LG_bJ
-  cipher: chacha20-ietf-poly1305
-- name: AFOSNE_United States_ss_073
-  server: 38.121.43.65
-  type: ss
-  country: 🇺🇸US
-  port: 7001
-  password: RexnBgU7EV5ADxG
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_074
-  server: 38.68.134.202
-  type: ss
-  country: 🇺🇸US
-  port: 5004
-  password: g5MeD6Ft3CWlJId
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_075
-  server: 38.54.104.184
-  type: ss
-  country: 🇺🇸US
-  port: 18808
-  password: wwq6Xo5gJ8
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_076
-  server: 142.202.48.43
-  type: ss
-  country: 🇺🇸US
-  port: 8090
-  password: PCnnH6SQSnfoS27
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_077
-  server: 142.202.48.43
-  type: ss
-  country: 🇺🇸US
-  port: 2375
-  password: faBAoD54k87UJG7
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_078
-  server: 38.75.136.21
-  type: ss
-  country: 🇺🇸US
-  port: 5001
-  password: Y6R9pAtvxxzmGC
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_079
-  server: 38.75.136.21
-  type: ss
-  country: 🇺🇸US
-  port: 8080
-  password: KixLvKzwjekG00rm
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_080
-  server: 167.88.61.175
-  type: ss
-  country: 🇺🇸US
-  port: 8080
-  password: KixLvKzwjekG00rm
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ss_081
-  server: 38.75.136.21
-  type: ss
-  country: 🇺🇸US
-  port: 5003
-  password: g5MeD6Ft3CWlJId
-  cipher: aes-256-gcm
-- name: AFOSNE_United States_ssr_082
-  server: 192.240.99.182
-  type: ssr
-  country: 🇺🇸US
-  port: 8097
-  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
-  cipher: aes-256-cfb
-  protocol: origin
-  obfs: plain
-  group: AutoSSR
-- name: AFOSNE_United States_ssr_083
-  server: us.linode.rbqis.me
-  type: ssr
-  country: 🇺🇸US
-  port: 19155
-  password: JUBXCP
-  cipher: aes-192-ctr
-  protocol: auth_sha1_v4
-  obfs: tls1.2_ticket_auth
-  group: Update-二爷
-- name: AFOSNE_Japan_vmess_084
-  server: 152.69.197.60
-  type: vmess
-  country: 🇺🇸US
-  port: 1069
-  uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf
-  alterId: 0
-  cipher: auto
-  network: tcp
-  http-opts: {}
-  h2-opts: {}
-  skip-cert-verify: true
-- name: AFOSNE_United States_vmess_085
-  server: 172.67.229.35
-  type: vmess
-  country: 🇺🇸US
-  port: 2086
-  uuid: 58fe1542-5290-40ad-815a-77707a81afe5
-  alterId: 0
-  cipher: auto
-  network: ws
-  servername: ca6.tehme100.fun
-  http-opts: {}
-  h2-opts: {}
-  skip-cert-verify: true
-  ws-opts:
-    path: /IOebhLMhl1CTbFHbL95myfRX2
-    headers:
-      HOST: ca6.tehme100.fun
-- name: AFOSNE_United States_vmess_086
-  server: 172.67.229.39
-  type: vmess
-  country: 🇺🇸US
-  port: 2086
-  uuid: 58fe1542-5290-40ad-815a-77707a81afe5
-  alterId: 0
-  cipher: auto
-  network: ws
-  servername: ca6.tehme100.fun
-  http-opts: {}
-  h2-opts: {}
-  skip-cert-verify: true
-  ws-opts:
-    path: /IOebhLMhl1CTbFHbL95myfRX2
-    headers:
-      HOST: ca6.tehme100.fun
-- name: AFOSNE_Canada_trojan_087
-  server: frontend.kuangbiaoyun.com
+- name: AFOSNE_China_trojan_01
   type: trojan
-  country: 🇺🇸US
-  port: 40003
-  password: 9737c85e-ad5c-48f5-93f6-9bdb0361d04c
-  skip-cert-verify: true
+  server: tiananmen.19890604.day
+  port: 10801
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
   udp: true
-- name: AFOSNE_Canada_trojan_088
-  server: frontend.kuangbiaoyun.com
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_02
   type: trojan
-  country: 🇺🇸US
-  port: 40003
-  password: 57edfecf-5694-4a34-8072-54a4f0636a62
-  sni: frontend.kuangbiaoyun.com
-  skip-cert-verify: true
+  server: tiananmen.19890604.day
+  port: 10802
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
   udp: true
-- name: AFOSNE_United States_trojan_089
-  server: 104.219.54.187
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_03
   type: trojan
-  country: 🇺🇸US
-  port: 27112
-  password: hJG3wNfsVa
-  sni: android.googleapis.com
-  skip-cert-verify: true
+  server: tiananmen.19890604.day
+  port: 10803
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
   udp: true
-- name: AFOSNE_Canada_vmess_11
-  server: dongtaiwang2.com
-  type: vmess
-  port: 443
-  uuid: f5c180eb-fbce-49ac-9029-482eca9385c0
-  alterId: 0
-  cipher: auto
-  network: ws
-  http-opts: {}
-  h2-opts: {}
-  tls: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
-  ws-opts:
-    path: /gzogws
-    headers:
-      host: xray1.freeh1.xyz
-- name: AFOSNE_Canada_vmess_12
-  server: dongtaiwang3.com
-  type: vmess
-  port: 443
-  uuid: f5c180eb-fbce-49ac-9029-482eca9385c0
-  alterId: 0
-  cipher: auto
-  network: ws
-  http-opts: {}
-  h2-opts: {}
-  tls: true
+- name: AFOSNE_China_trojan_04
+  type: trojan
+  server: tiananmen.19890604.day
+  port: 10804
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
-  ws-opts:
-    path: /gzogws
-    headers:
-      host: xray1.freeh1.xyz
-- name: AFOSNE_United Kingdom_ss_13
-  server: 46.250.237.91
-  type: ss
-  country: 🇬🇧GB
-  port: 443
-  password: EaD2XSJgkVNjZsrrqelQ1s
-  cipher: chacha20-ietf-poly1305
-- name: AFOSNE_Hong Kong_ss_14
-  server: 8.210.231.146
-  type: ss
-  country: 🇭🇰HK
-  port: 1146
-  password: jmtgsmW40R
-  cipher: aes-256-gcm
+- name: AFOSNE_China_trojan_05
+  type: trojan
+  server: tiananmen.19890604.day
+  port: 10805
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_06
+  type: trojan
+  server: tiananmen.19890604.day
+  port: 10806
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_07
+  type: trojan
+  server: tiananmen.19890604.day
+  port: 10807
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_08
+  type: trojan
+  server: tiananmen.19890604.day
+  port: 10808
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_09
+  type: trojan
+  server: tiananmen.19890604.day
+  port: 10809
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_010
+  type: trojan
+  server: tiananmen.19890604.day
+  port: 10810
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_011
+  type: trojan
+  server: xijinping.19890604.day
+  port: 10811
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_012
+  type: trojan
+  server: xijinping.19890604.day
+  port: 10812
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_013
+  type: trojan
+  server: xijinping.19890604.day
+  port: 10813
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_014
+  type: trojan
+  server: xijinping.19890604.day
+  port: 10814
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_015
+  type: trojan
+  server: xijinping.19890604.day
+  port: 10815
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_016
+  type: trojan
+  server: xijinping.19890604.day
+  port: 10816
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_017
+  type: trojan
+  server: xijinping.19890604.day
+  port: 10817
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_018
+  type: trojan
+  server: xijinping.19890604.day
+  port: 10818
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_019
+  type: trojan
+  server: falungong.19890604.day
+  port: 10819
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_020
+  type: trojan
+  server: falungong.19890604.day
+  port: 10820
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_021
+  type: trojan
+  server: falungong.19890604.day
+  port: 10821
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_022
+  type: trojan
+  server: falungong.19890604.day
+  port: 10822
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_023
+  type: trojan
+  server: falungong.19890604.day
+  port: 10823
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_024
+  type: trojan
+  server: falungong.19890604.day
+  port: 10824
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_025
+  type: trojan
+  server: falungong.19890604.day
+  port: 10825
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_026
+  type: trojan
+  server: falungong.19890604.day
+  port: 10826
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_027
+  type: trojan
+  server: tank.19890604.day
+  port: 10827
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_028
+  type: trojan
+  server: tank.19890604.day
+  port: 10828
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_029
+  type: trojan
+  server: tank.19890604.day
+  port: 10829
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_030
+  type: trojan
+  server: tank.19890604.day
+  port: 10830
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_031
+  type: trojan
+  server: tank.19890604.day
+  port: 10831
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_032
+  type: trojan
+  server: tank.19890604.day
+  port: 10832
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_033
+  type: trojan
+  server: tank.19890604.day
+  port: 10833
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_034
+  type: trojan
+  server: tank.19890604.day
+  port: 10834
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_035
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10835
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_036
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10836
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_037
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10837
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_038
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10838
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_039
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10839
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_040
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10840
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_041
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10841
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_042
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10844
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_043
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10845
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_044
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10846
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_045
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10847
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_046
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10848
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_047
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10849
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
+- name: AFOSNE_China_trojan_048
+  type: trojan
+  server: xibaozi.19890604.day
+  port: 10850
+  password: b00eb626-6d59-4bf7-ae02-3cec45d14290
+  udp: true
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  skip-cert-verify: true
 proxy-groups:
 - name: 节点选择
   type: select
   proxies:
   - 自动选择
   - DIRECT
-  - AFOSNE_Sweden_ss_01
-  - AFOSNE_Argentina_ss_02
-  - AFOSNE_Bosnia and Herzegovina_ss_03
-  - AFOSNE_Chile_ss_04
-  - AFOSNE_Japan_vmess_05
-  - AFOSNE_Japan_vmess_06
-  - AFOSNE_Japan_vmess_07
-  - AFOSNE_Japan_vmess_08
-  - AFOSNE_Germany_vmess_09
-  - AFOSNE_France_ss_010
-  - AFOSNE_Germany_ss_011
-  - AFOSNE_France_ss_012
-  - AFOSNE_France_ss_013
-  - AFOSNE_France_ss_014
-  - AFOSNE_Germany_ss_015
-  - AFOSNE_Germany_ss_016
-  - AFOSNE_France_ss_017
-  - AFOSNE_France_ss_018
-  - AFOSNE_France_ss_019
-  - AFOSNE_France_ss_020
-  - AFOSNE_France_ss_021
-  - AFOSNE_Germany_ss_022
-  - AFOSNE_United Kingdom_ss_023
-  - AFOSNE_United Kingdom_ss_024
-  - AFOSNE_United Kingdom_ss_025
-  - AFOSNE_United Kingdom_ss_026
-  - AFOSNE_United Kingdom_ss_027
-  - AFOSNE_United Kingdom_ss_028
-  - AFOSNE_United Kingdom_ss_029
-  - AFOSNE_United Kingdom_vmess_030
-  - AFOSNE_Hong Kong_ss_031
-  - AFOSNE_Hong Kong_ssr_032
-  - AFOSNE_Azerbaijan_ss_033
-  - AFOSNE_Japan_ss_034
-  - AFOSNE_Japan_ss_035
-  - AFOSNE_South Korea_ss_036
-  - AFOSNE_South Korea_ss_037
-  - AFOSNE_South Korea_ss_038
-  - AFOSNE_South Korea_ss_039
-  - AFOSNE_South Korea_ss_040
-  - AFOSNE_South Korea_ss_041
-  - AFOSNE_South Korea_ss_042
-  - AFOSNE_South Korea_ss_043
-  - AFOSNE_South Korea_ss_044
-  - AFOSNE_South Korea_ss_045
-  - AFOSNE_Mexico_ss_046
-  - AFOSNE_Panama_ss_047
-  - AFOSNE_Poland_ss_048
-  - AFOSNE_Poland_ss_049
-  - AFOSNE_Poland_ss_050
-  - AFOSNE_Poland_ss_051
-  - AFOSNE_Poland_ss_052
-  - AFOSNE_Poland_ss_053
-  - AFOSNE_Poland_ss_054
-  - AFOSNE_Singapore_ss_055
-  - AFOSNE_Singapore_ss_056
-  - AFOSNE_Singapore_ss_057
-  - AFOSNE_Singapore_ss_058
-  - AFOSNE_South Korea_ss_059
-  - AFOSNE_United States_ss_060
-  - AFOSNE_United States_ss_061
-  - AFOSNE_United States_ss_062
-  - AFOSNE_United States_ss_063
-  - AFOSNE_United States_ss_064
-  - AFOSNE_South Korea_ss_065
-  - AFOSNE_United States_ss_066
-  - AFOSNE_Japan_ss_067
-  - AFOSNE_United States_ss_068
-  - AFOSNE_United States_ss_069
-  - AFOSNE_United States_ss_070
-  - AFOSNE_United States_ss_071
-  - AFOSNE_United States_ss_072
-  - AFOSNE_United States_ss_073
-  - AFOSNE_United States_ss_074
-  - AFOSNE_United States_ss_075
-  - AFOSNE_United States_ss_076
-  - AFOSNE_United States_ss_077
-  - AFOSNE_United States_ss_078
-  - AFOSNE_United States_ss_079
-  - AFOSNE_United States_ss_080
-  - AFOSNE_United States_ss_081
-  - AFOSNE_United States_ssr_082
-  - AFOSNE_United States_ssr_083
-  - AFOSNE_Japan_vmess_084
-  - AFOSNE_United States_vmess_085
-  - AFOSNE_United States_vmess_086
-  - AFOSNE_Canada_trojan_087
-  - AFOSNE_Canada_trojan_088
-  - AFOSNE_United States_trojan_089
-  - AFOSNE_Canada_vmess_11
-  - AFOSNE_Canada_vmess_12
-  - AFOSNE_United Kingdom_ss_13
-  - AFOSNE_Hong Kong_ss_14
+  - AFOSNE_China_trojan_01
+  - AFOSNE_China_trojan_02
+  - AFOSNE_China_trojan_03
+  - AFOSNE_China_trojan_04
+  - AFOSNE_China_trojan_05
+  - AFOSNE_China_trojan_06
+  - AFOSNE_China_trojan_07
+  - AFOSNE_China_trojan_08
+  - AFOSNE_China_trojan_09
+  - AFOSNE_China_trojan_010
+  - AFOSNE_China_trojan_011
+  - AFOSNE_China_trojan_012
+  - AFOSNE_China_trojan_013
+  - AFOSNE_China_trojan_014
+  - AFOSNE_China_trojan_015
+  - AFOSNE_China_trojan_016
+  - AFOSNE_China_trojan_017
+  - AFOSNE_China_trojan_018
+  - AFOSNE_China_trojan_019
+  - AFOSNE_China_trojan_020
+  - AFOSNE_China_trojan_021
+  - AFOSNE_China_trojan_022
+  - AFOSNE_China_trojan_023
+  - AFOSNE_China_trojan_024
+  - AFOSNE_China_trojan_025
+  - AFOSNE_China_trojan_026
+  - AFOSNE_China_trojan_027
+  - AFOSNE_China_trojan_028
+  - AFOSNE_China_trojan_029
+  - AFOSNE_China_trojan_030
+  - AFOSNE_China_trojan_031
+  - AFOSNE_China_trojan_032
+  - AFOSNE_China_trojan_033
+  - AFOSNE_China_trojan_034
+  - AFOSNE_China_trojan_035
+  - AFOSNE_China_trojan_036
+  - AFOSNE_China_trojan_037
+  - AFOSNE_China_trojan_038
+  - AFOSNE_China_trojan_039
+  - AFOSNE_China_trojan_040
+  - AFOSNE_China_trojan_041
+  - AFOSNE_China_trojan_042
+  - AFOSNE_China_trojan_043
+  - AFOSNE_China_trojan_044
+  - AFOSNE_China_trojan_045
+  - AFOSNE_China_trojan_046
+  - AFOSNE_China_trojan_047
+  - AFOSNE_China_trojan_048
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - AFOSNE_Sweden_ss_01
-  - AFOSNE_Argentina_ss_02
-  - AFOSNE_Bosnia and Herzegovina_ss_03
-  - AFOSNE_Chile_ss_04
-  - AFOSNE_Japan_vmess_05
-  - AFOSNE_Japan_vmess_06
-  - AFOSNE_Japan_vmess_07
-  - AFOSNE_Japan_vmess_08
-  - AFOSNE_Germany_vmess_09
-  - AFOSNE_France_ss_010
-  - AFOSNE_Germany_ss_011
-  - AFOSNE_France_ss_012
-  - AFOSNE_France_ss_013
-  - AFOSNE_France_ss_014
-  - AFOSNE_Germany_ss_015
-  - AFOSNE_Germany_ss_016
-  - AFOSNE_France_ss_017
-  - AFOSNE_France_ss_018
-  - AFOSNE_France_ss_019
-  - AFOSNE_France_ss_020
-  - AFOSNE_France_ss_021
-  - AFOSNE_Germany_ss_022
-  - AFOSNE_United Kingdom_ss_023
-  - AFOSNE_United Kingdom_ss_024
-  - AFOSNE_United Kingdom_ss_025
-  - AFOSNE_United Kingdom_ss_026
-  - AFOSNE_United Kingdom_ss_027
-  - AFOSNE_United Kingdom_ss_028
-  - AFOSNE_United Kingdom_ss_029
-  - AFOSNE_United Kingdom_vmess_030
-  - AFOSNE_Hong Kong_ss_031
-  - AFOSNE_Hong Kong_ssr_032
-  - AFOSNE_Azerbaijan_ss_033
-  - AFOSNE_Japan_ss_034
-  - AFOSNE_Japan_ss_035
-  - AFOSNE_South Korea_ss_036
-  - AFOSNE_South Korea_ss_037
-  - AFOSNE_South Korea_ss_038
-  - AFOSNE_South Korea_ss_039
-  - AFOSNE_South Korea_ss_040
-  - AFOSNE_South Korea_ss_041
-  - AFOSNE_South Korea_ss_042
-  - AFOSNE_South Korea_ss_043
-  - AFOSNE_South Korea_ss_044
-  - AFOSNE_South Korea_ss_045
-  - AFOSNE_Mexico_ss_046
-  - AFOSNE_Panama_ss_047
-  - AFOSNE_Poland_ss_048
-  - AFOSNE_Poland_ss_049
-  - AFOSNE_Poland_ss_050
-  - AFOSNE_Poland_ss_051
-  - AFOSNE_Poland_ss_052
-  - AFOSNE_Poland_ss_053
-  - AFOSNE_Poland_ss_054
-  - AFOSNE_Singapore_ss_055
-  - AFOSNE_Singapore_ss_056
-  - AFOSNE_Singapore_ss_057
-  - AFOSNE_Singapore_ss_058
-  - AFOSNE_South Korea_ss_059
-  - AFOSNE_United States_ss_060
-  - AFOSNE_United States_ss_061
-  - AFOSNE_United States_ss_062
-  - AFOSNE_United States_ss_063
-  - AFOSNE_United States_ss_064
-  - AFOSNE_South Korea_ss_065
-  - AFOSNE_United States_ss_066
-  - AFOSNE_Japan_ss_067
-  - AFOSNE_United States_ss_068
-  - AFOSNE_United States_ss_069
-  - AFOSNE_United States_ss_070
-  - AFOSNE_United States_ss_071
-  - AFOSNE_United States_ss_072
-  - AFOSNE_United States_ss_073
-  - AFOSNE_United States_ss_074
-  - AFOSNE_United States_ss_075
-  - AFOSNE_United States_ss_076
-  - AFOSNE_United States_ss_077
-  - AFOSNE_United States_ss_078
-  - AFOSNE_United States_ss_079
-  - AFOSNE_United States_ss_080
-  - AFOSNE_United States_ss_081
-  - AFOSNE_United States_ssr_082
-  - AFOSNE_United States_ssr_083
-  - AFOSNE_Japan_vmess_084
-  - AFOSNE_United States_vmess_085
-  - AFOSNE_United States_vmess_086
-  - AFOSNE_Canada_trojan_087
-  - AFOSNE_Canada_trojan_088
-  - AFOSNE_United States_trojan_089
-  - AFOSNE_Canada_vmess_11
-  - AFOSNE_Canada_vmess_12
-  - AFOSNE_United Kingdom_ss_13
-  - AFOSNE_Hong Kong_ss_14
+  - AFOSNE_China_trojan_01
+  - AFOSNE_China_trojan_02
+  - AFOSNE_China_trojan_03
+  - AFOSNE_China_trojan_04
+  - AFOSNE_China_trojan_05
+  - AFOSNE_China_trojan_06
+  - AFOSNE_China_trojan_07
+  - AFOSNE_China_trojan_08
+  - AFOSNE_China_trojan_09
+  - AFOSNE_China_trojan_010
+  - AFOSNE_China_trojan_011
+  - AFOSNE_China_trojan_012
+  - AFOSNE_China_trojan_013
+  - AFOSNE_China_trojan_014
+  - AFOSNE_China_trojan_015
+  - AFOSNE_China_trojan_016
+  - AFOSNE_China_trojan_017
+  - AFOSNE_China_trojan_018
+  - AFOSNE_China_trojan_019
+  - AFOSNE_China_trojan_020
+  - AFOSNE_China_trojan_021
+  - AFOSNE_China_trojan_022
+  - AFOSNE_China_trojan_023
+  - AFOSNE_China_trojan_024
+  - AFOSNE_China_trojan_025
+  - AFOSNE_China_trojan_026
+  - AFOSNE_China_trojan_027
+  - AFOSNE_China_trojan_028
+  - AFOSNE_China_trojan_029
+  - AFOSNE_China_trojan_030
+  - AFOSNE_China_trojan_031
+  - AFOSNE_China_trojan_032
+  - AFOSNE_China_trojan_033
+  - AFOSNE_China_trojan_034
+  - AFOSNE_China_trojan_035
+  - AFOSNE_China_trojan_036
+  - AFOSNE_China_trojan_037
+  - AFOSNE_China_trojan_038
+  - AFOSNE_China_trojan_039
+  - AFOSNE_China_trojan_040
+  - AFOSNE_China_trojan_041
+  - AFOSNE_China_trojan_042
+  - AFOSNE_China_trojan_043
+  - AFOSNE_China_trojan_044
+  - AFOSNE_China_trojan_045
+  - AFOSNE_China_trojan_046
+  - AFOSNE_China_trojan_047
+  - AFOSNE_China_trojan_048
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
