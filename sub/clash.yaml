@@ -29,7 +29,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10801
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -37,7 +37,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10802
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -45,7 +45,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10803
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -53,7 +53,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10804
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -61,7 +61,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10805
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -69,7 +69,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10806
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -77,7 +77,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10807
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -85,7 +85,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10808
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -93,7 +93,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10809
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -101,7 +101,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10810
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -109,7 +109,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10811
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -117,7 +117,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10812
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -125,7 +125,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10813
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -133,7 +133,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10814
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -141,7 +141,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10815
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -149,7 +149,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10816
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -157,7 +157,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10817
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -165,7 +165,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10818
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -173,7 +173,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10819
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -181,7 +181,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10820
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -189,7 +189,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10821
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -197,7 +197,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10822
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -205,7 +205,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10823
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -213,7 +213,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10824
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -221,7 +221,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10825
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -229,7 +229,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10826
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -237,7 +237,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10827
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -245,7 +245,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10828
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -253,7 +253,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10829
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -261,7 +261,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10830
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -269,7 +269,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10831
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -277,7 +277,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10832
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -285,7 +285,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10833
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -293,7 +293,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10834
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -301,7 +301,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10835
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -309,7 +309,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10836
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -317,7 +317,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10837
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -325,7 +325,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10838
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -333,7 +333,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10839
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -341,7 +341,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10840
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -349,7 +349,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10841
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -357,7 +357,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10844
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -365,7 +365,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10845
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -373,7 +373,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10846
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -381,7 +381,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10847
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -389,7 +389,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10848
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -397,7 +397,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10849
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -405,7 +405,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10850
-  password: b864525f-8a59-416e-bfb2-d0cc0aaf1985
+  password: 931ecf1c-91a4-4646-bb68-a436a1baee5b
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -416,61 +416,17 @@ proxies:
   cipher: aes-128-gcm
   password: 6601fb90e9b3
   udp: true
-- name: AFOSNE_China_vmess_12
-  server: data-us-v1.shwjfkw.cn
-  port: 20401
+- name: AFOSNE_Taiwan_vmess_12
+  server: 1.162.139.104
+  port: 21353
   type: vmess
-  uuid: b1478e24-4916-3abe-8f17-15931012ecbe
+  uuid: c24b520b-e0c6-4bb0-b951-dd87cc07a518
   alterId: 0
   cipher: auto
   tls: false
   skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /debian
-    headers:
-      Host: data-us-v1.shwjfkw.cn
   udp: true
-- name: AFOSNE_None_trojan_13
-  server: 104.25.255.254
-  port: 443
-  type: trojan
-  password: a6292090-afe1-4640-97a7-4f1d1d877cf1
-  sni: hdfy8c1.foriran.me
-  skip-cert-verify: false
-  udp: true
-- name: AFOSNE_Ireland_trojan_14
-  server: 54.229.97.58
-  port: 22222
-  type: trojan
-  password: telegram-id-privatevpns
-  sni: trojan.miwan.co.uk
-  skip-cert-verify: false
-  udp: true
-- name: AFOSNE_Germany_trojan_15
-  server: 3.73.245.33
-  port: 22222
-  type: trojan
-  password: telegram-id-privatevpns
-  sni: trojan.miwan.co.uk
-  skip-cert-verify: false
-  udp: true
-- name: AFOSNE_None_vmess_16
-  server: 104.17.25.1
-  port: 80
-  type: vmess
-  uuid: d6664518-c8e1-42cf-f2c1-d33dcc01a8a6
-  alterId: 0
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: sgvpn.catnipballs.gay
-  udp: true
-- name: AFOSNE_Vietnam_trojan_17
+- name: AFOSNE_Vietnam_trojan_13
   server: skyht2.vpndata.vn
   port: 443
   type: trojan
@@ -478,11 +434,29 @@ proxies:
   sni: lienquan.garena.vn
   skip-cert-verify: false
   udp: true
-- name: AFOSNE_United States_vmess_18
-  server: 172.67.37.10
+- name: AFOSNE_Netherlands_vmess_14
+  server: 45.136.51.175
+  port: 32567
+  type: vmess
+  uuid: df35304b-1f31-4b0d-9d02-f70256f732f1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_15
+  server: hk.zgc.su
+  port: 567
+  type: trojan
+  password: 94744160-abe9-44ca-b085-0f6994e1944e
+  sni: hk.zgc.su
+  skip-cert-verify: false
+  udp: true
+- name: AFOSNE_United States_vmess_16
+  server: cf.openxai.link
   port: 8080
   type: vmess
-  uuid: 7b6ddff4-8f18-4e27-de82-a33cfeebfa01
+  uuid: aa1dbb68-bfb5-4484-f7e7-7335eac3988c
   alterId: 0
   cipher: auto
   tls: false
@@ -491,9 +465,54 @@ proxies:
   ws-opts:
     path: /?ed=2048
     headers:
-      Host: eu5.openxai.link
+      Host: eu2.openxai.link
   udp: true
-- name: AFOSNE_Iran_trojan_19
+- name: AFOSNE_United States_trojan_17
+  server: los16.ttddd.xyz
+  port: 443
+  type: trojan
+  password: 27876_t7d7f4e3f
+  skip-cert-verify: false
+  udp: true
+- name: AFOSNE_None_trojan_18
+  server: 104.18.213.21
+  port: 2096
+  type: trojan
+  password: DUvWfvC7xH
+  sni: my.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd
+  skip-cert-verify: false
+  udp: true
+- name: AFOSNE_None_vmess_19
+  server: cfcdn1.sanfencdn9.com
+  port: 2082
+  type: vmess
+  uuid: 27c7e182-88bf-4fc6-bbdd-83453061f47f
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /video/CuTy87zAzV/
+    headers:
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+  udp: true
+- name: AFOSNE_Ukraine_vmess_110
+  server: 185.158.211.186
+  port: 80
+  type: vmess
+  uuid: 66fef53b-1b57-466d-89a4-bd99b90f6473
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /@forwardv2ray
+    headers:
+      Host: irisoft.servecounterstrike.com
+  udp: true
+- name: AFOSNE_Iran_trojan_111
   server: 185.94.99.205
   port: 60302
   type: trojan
@@ -501,11 +520,43 @@ proxies:
   sni: https://nafasmovie.com/
   skip-cert-verify: false
   udp: true
-- name: AFOSNE_None_vmess_110
-  server: glaSco.fx-trAder.shop
+- name: AFOSNE_United States_vmess_112
+  server: 205.164.28.103
+  port: 13487
+  type: vmess
+  uuid: f5502283-53ba-442b-bdb1-a25745fd5c17
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+- name: AFOSNE_China_ss_113
+  server: service.ouluyun9803.com
+  port: 26668
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: cfa17a0d-5e7d-4871-976e-f116e0818123
+  udp: true
+- name: AFOSNE_United Kingdom_trojan_114
+  server: 35.177.221.152
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.miwan.co.uk
+  skip-cert-verify: false
+  udp: true
+- name: AFOSNE_Russia_ss_115
+  server: 92.223.109.205
+  port: 51348
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: NE1maM9InLOKgK3dRPcuy6llYUKjZxhs3RGOWSqNRddj9Yn2
+  udp: true
+- name: AFOSNE_None_vmess_116
+  server: 104.18.15.150
   port: 80
   type: vmess
-  uuid: cdbb0899-7113-4d4e-f868-31339c75ad3c
+  uuid: 9b170ad4-3211-4f0f-8bc9-80d356b67662
   alterId: 0
   cipher: auto
   tls: false
@@ -514,24 +565,9 @@ proxies:
   ws-opts:
     path: /
     headers:
-      Host: vvv2vayo2.everythingisreve.shop
+      Host: er3.889611.com
   udp: true
-- name: AFOSNE_Vietnam_trojan_111
-  server: 103.154.62.23
-  port: 443
-  type: trojan
-  password: 5bae27f5-3b8e-48f3-b91f-30fc680ea78f
-  sni: lienquan.garena.vn
-  skip-cert-verify: false
-  udp: true
-- name: AFOSNE_United Kingdom_ss_112
-  server: 18.134.66.197
-  port: 443
-  type: ss
-  cipher: chacha20-poly1305
-  password: Bog0ELmMM9DSxDdQ
-  udp: true
-- name: AFOSNE_United States_vmess_113
+- name: AFOSNE_United States_vmess_117
   server: 172.67.212.171
   port: 8080
   type: vmess
@@ -546,59 +582,79 @@ proxies:
     headers:
       Host: eu5.openxai.link
   udp: true
-- name: AFOSNE_Taiwan_vmess_114
-  server: nb24.ntbq.dynu.net
-  port: 4443
-  type: vmess
-  uuid: 8907aeec-189d-48d9-b557-fb242a4d8127
-  alterId: 0
-  cipher: auto
-  tls: false
+- name: AFOSNE_Hong Kong_trojan_118
+  server: hk.zgc.su
+  port: 567
+  type: trojan
+  password: 94744160-abe9-44ca-b085-0f6994e1944e
   skip-cert-verify: false
   udp: true
-- name: AFOSNE_United Kingdom_ss_115
-  server: 13.43.56.46
+- name: AFOSNE_Netherlands_trojan_119
+  server: 188.114.99.29
   port: 443
-  type: ss
-  cipher: chacha20-poly1305
-  password: Bog0ELmMM9DSxDdQ
+  type: trojan
+  password: a6292090-afe1-4640-97a7-4f1d1d877cf1
+  sni: hdfy8c1.foriran.me
+  skip-cert-verify: false
   udp: true
-- name: AFOSNE_Poland_ss_116
-  server: 217.30.10.102
-  port: 42417
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: qAeyvyDF6jf5iH3xGu6Oiz
+- name: AFOSNE_France_trojan_120
+  server: 13.38.166.229
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.miwan.co.uk
+  skip-cert-verify: false
   udp: true
-- name: AFOSNE_Taiwan_vmess_117
-  server: b23.ntbq.dynu.net
+- name: AFOSNE_Taiwan_vmess_121
+  server: 61.228.149.88
   port: 2024
   type: vmess
-  uuid: 8907aeec-189d-48d9-b557-fb242a4d8127
+  uuid: df2add0d-5f99-4a3f-a135-0259541b87e1
   alterId: 0
   cipher: auto
   tls: false
   skip-cert-verify: false
   udp: true
-- name: AFOSNE_United Kingdom_ss_118
-  server: Fast_2ray_Telchannelll.fast2rayy.eu.org
+- name: AFOSNE_United Kingdom_ss_122
+  server: 3.9.156.146
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: Bog0ELmMM9DSxDdQ
+  password: mps3FwmDjLrWaOVg
   udp: true
-- name: AFOSNE_Taiwan_vmess_119
-  server: c12.twtc.dynu.net
-  port: 6122
+- name: AFOSNE_Netherlands_vmess_123
+  server: 45.136.51.175
+  port: 32567
   type: vmess
-  uuid: 8907aeec-189d-48d9-b557-fb242a4d8127
+  uuid: df35304b-1f31-4b0d-9d02-f70256f732f1
   alterId: 0
   cipher: auto
   tls: false
   skip-cert-verify: false
-  servername: c12.twtc.dynu.net
   udp: true
-- name: AFOSNE_United States_vmess_120
+- name: AFOSNE_None_vmess_124
+  server: 162.159.200.4
+  port: 80
+  type: vmess
+  uuid: 9b170ad4-3211-4f0f-8bc9-80d356b67662
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ca3.889611.com
+  udp: true
+- name: AFOSNE_United Kingdom_ss_125
+  server: series-a2-mec.samanehha.co
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: u17T3BvpYaaiuW2c
+  udp: true
+- name: AFOSNE_United States_vmess_126
   server: s1c.v2.v001sss.xyz
   port: 2082
   type: vmess
@@ -613,7 +669,22 @@ proxies:
     headers:
       Host: s1c.v2.v001sss.xyz
   udp: true
-- name: AFOSNE_China_vmess_121
+- name: AFOSNE_None_vmess_127
+  server: 104.17.25.1
+  port: 80
+  type: vmess
+  uuid: d6664518-c8e1-42cf-f2c1-d33dcc01a8a6
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: sgvpn.catnipballs.gay
+  udp: true
+- name: AFOSNE_China_vmess_128
   server: data-us-v1.shwjfkw.cn
   port: 20401
   type: vmess
@@ -628,20 +699,27 @@ proxies:
     headers:
       Host: data-us-v1.shwjfkw.cn
   udp: true
-- name: AFOSNE_United Kingdom_vmess_122
-  server: 172.99.190.109
-  port: 443
+- name: AFOSNE_Hong Kong_trojan_129
+  server: hk.zgc.su
+  port: 567
+  type: trojan
+  password: 94744160-abe9-44ca-b085-0f6994e1944e
+  skip-cert-verify: false
+  udp: true
+- name: AFOSNE_United States_vmess_130
+  server: 202.78.162.6
+  port: 80
   type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  uuid: 66fef53b-1b57-466d-89a4-bd99b90f6473
   alterId: 0
   cipher: auto
-  tls: true
+  tls: false
   skip-cert-verify: false
   network: ws
   ws-opts:
-    path: linkvws
+    path: /@forwardv2ray
     headers:
-      Host: 172.99.190.109
+      Host: irisoft.servecounterstrike.com
   udp: true
 proxy-groups:
 - name: 节点选择
@@ -698,27 +776,35 @@ proxy-groups:
   - AFOSNE_China_trojan_047
   - AFOSNE_China_trojan_048
   - Unknown_ss_11
-  - AFOSNE_China_vmess_12
-  - AFOSNE_None_trojan_13
-  - AFOSNE_Ireland_trojan_14
-  - AFOSNE_Germany_trojan_15
-  - AFOSNE_None_vmess_16
-  - AFOSNE_Vietnam_trojan_17
-  - AFOSNE_United States_vmess_18
-  - AFOSNE_Iran_trojan_19
-  - AFOSNE_None_vmess_110
-  - AFOSNE_Vietnam_trojan_111
-  - AFOSNE_United Kingdom_ss_112
-  - AFOSNE_United States_vmess_113
-  - AFOSNE_Taiwan_vmess_114
-  - AFOSNE_United Kingdom_ss_115
-  - AFOSNE_Poland_ss_116
-  - AFOSNE_Taiwan_vmess_117
-  - AFOSNE_United Kingdom_ss_118
-  - AFOSNE_Taiwan_vmess_119
-  - AFOSNE_United States_vmess_120
-  - AFOSNE_China_vmess_121
-  - AFOSNE_United Kingdom_vmess_122
+  - AFOSNE_Taiwan_vmess_12
+  - AFOSNE_Vietnam_trojan_13
+  - AFOSNE_Netherlands_vmess_14
+  - AFOSNE_Hong Kong_trojan_15
+  - AFOSNE_United States_vmess_16
+  - AFOSNE_United States_trojan_17
+  - AFOSNE_None_trojan_18
+  - AFOSNE_None_vmess_19
+  - AFOSNE_Ukraine_vmess_110
+  - AFOSNE_Iran_trojan_111
+  - AFOSNE_United States_vmess_112
+  - AFOSNE_China_ss_113
+  - AFOSNE_United Kingdom_trojan_114
+  - AFOSNE_Russia_ss_115
+  - AFOSNE_None_vmess_116
+  - AFOSNE_United States_vmess_117
+  - AFOSNE_Hong Kong_trojan_118
+  - AFOSNE_Netherlands_trojan_119
+  - AFOSNE_France_trojan_120
+  - AFOSNE_Taiwan_vmess_121
+  - AFOSNE_United Kingdom_ss_122
+  - AFOSNE_Netherlands_vmess_123
+  - AFOSNE_None_vmess_124
+  - AFOSNE_United Kingdom_ss_125
+  - AFOSNE_United States_vmess_126
+  - AFOSNE_None_vmess_127
+  - AFOSNE_China_vmess_128
+  - AFOSNE_Hong Kong_trojan_129
+  - AFOSNE_United States_vmess_130
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -774,27 +860,35 @@ proxy-groups:
   - AFOSNE_China_trojan_047
   - AFOSNE_China_trojan_048
   - Unknown_ss_11
-  - AFOSNE_China_vmess_12
-  - AFOSNE_None_trojan_13
-  - AFOSNE_Ireland_trojan_14
-  - AFOSNE_Germany_trojan_15
-  - AFOSNE_None_vmess_16
-  - AFOSNE_Vietnam_trojan_17
-  - AFOSNE_United States_vmess_18
-  - AFOSNE_Iran_trojan_19
-  - AFOSNE_None_vmess_110
-  - AFOSNE_Vietnam_trojan_111
-  - AFOSNE_United Kingdom_ss_112
-  - AFOSNE_United States_vmess_113
-  - AFOSNE_Taiwan_vmess_114
-  - AFOSNE_United Kingdom_ss_115
-  - AFOSNE_Poland_ss_116
-  - AFOSNE_Taiwan_vmess_117
-  - AFOSNE_United Kingdom_ss_118
-  - AFOSNE_Taiwan_vmess_119
-  - AFOSNE_United States_vmess_120
-  - AFOSNE_China_vmess_121
-  - AFOSNE_United Kingdom_vmess_122
+  - AFOSNE_Taiwan_vmess_12
+  - AFOSNE_Vietnam_trojan_13
+  - AFOSNE_Netherlands_vmess_14
+  - AFOSNE_Hong Kong_trojan_15
+  - AFOSNE_United States_vmess_16
+  - AFOSNE_United States_trojan_17
+  - AFOSNE_None_trojan_18
+  - AFOSNE_None_vmess_19
+  - AFOSNE_Ukraine_vmess_110
+  - AFOSNE_Iran_trojan_111
+  - AFOSNE_United States_vmess_112
+  - AFOSNE_China_ss_113
+  - AFOSNE_United Kingdom_trojan_114
+  - AFOSNE_Russia_ss_115
+  - AFOSNE_None_vmess_116
+  - AFOSNE_United States_vmess_117
+  - AFOSNE_Hong Kong_trojan_118
+  - AFOSNE_Netherlands_trojan_119
+  - AFOSNE_France_trojan_120
+  - AFOSNE_Taiwan_vmess_121
+  - AFOSNE_United Kingdom_ss_122
+  - AFOSNE_Netherlands_vmess_123
+  - AFOSNE_None_vmess_124
+  - AFOSNE_United Kingdom_ss_125
+  - AFOSNE_United States_vmess_126
+  - AFOSNE_None_vmess_127
+  - AFOSNE_China_vmess_128
+  - AFOSNE_Hong Kong_trojan_129
+  - AFOSNE_United States_vmess_130
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
