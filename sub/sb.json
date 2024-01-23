@@ -154,41 +154,52 @@
         "🇫🇴 AFOSNE_China_trojan_047",
         "🇫🇴 AFOSNE_China_trojan_048",
         "Unknown_ss_11",
-        "🇫🇴 AFOSNE_None_vmess_12",
-        "🇷🇺 AFOSNE_Russia_trojan_13",
-        "🇹🇼 AFOSNE_Taiwan_vmess_14",
-        "🇫🇴 AFOSNE_China_ss_15",
-        "🇺🇸 AFOSNE_United States_trojan_16",
-        "🇬🇧 AFOSNE_United Kingdom_trojan_17",
-        "🇹🇼 AFOSNE_Taiwan_vmess_18",
-        "🇬🇧 AFOSNE_United Kingdom_vmess_19",
-        "🇫🇴 AFOSNE_China_vmess_110",
-        "🇫🇴 AFOSNE_None_trojan_111",
-        "🇫🇴 AFOSNE_None_trojan_112",
-        "🇬🇧 AFOSNE_United Kingdom_ss_113",
-        "🇫🇴 AFOSNE_None_vmess_114",
-        "🇫🇴 AFOSNE_None_vmess_115",
-        "🇨🇦 AFOSNE_Canada_vmess_116",
-        "🇫🇴 AFOSNE_None_vmess_117",
-        "🇫🇴 AFOSNE_None_vmess_118",
-        "🇫🇴 AFOSNE_None_vmess_119",
-        "🇬🇧 AFOSNE_United Kingdom_ss_120",
-        "🇫🇴 AFOSNE_Netherlands_ss_121",
-        "🇬🇧 AFOSNE_United Kingdom_ss_122",
-        "🇬🇧 AFOSNE_United Kingdom_ss_123",
-        "🇹🇼 AFOSNE_Taiwan_vmess_124",
-        "🇬🇧 AFOSNE_United Kingdom_vmess_125",
-        "🇫🇴 AFOSNE_None_vmess_126",
-        "🇫🇷 AFOSNE_France_vmess_127",
-        "🇻🇳 AFOSNE_Vietnam_vmess_128",
-        "🇬🇧 AFOSNE_United Kingdom_ss_129",
-        "🇫🇴 AFOSNE_China_ss_130",
-        "🇫🇴 AFOSNE_China_vmess_131",
-        "🇫🇴 AFOSNE_None_vmess_132",
-        "🇫🇴 AFOSNE_Libya_vmess_133",
-        "🇫🇴 AFOSNE_None_vmess_134",
-        "🇫🇴 AFOSNE_China_ss_135",
-        "🇬🇧 AFOSNE_United Kingdom_vmess_136"
+        "🇺🇸 AFOSNE_United States_vmess_12",
+        "🇻🇳 AFOSNE_Vietnam_trojan_13",
+        "🇬🇧 AFOSNE_United Kingdom_trojan_14",
+        "🇺🇸 AFOSNE_United States_trojan_15",
+        "🇺🇸 AFOSNE_United States_vmess_16",
+        "🇻🇳 AFOSNE_Vietnam_trojan_17",
+        "🇩🇪 AFOSNE_Germany_trojan_18",
+        "🇨🇿 AFOSNE_Czechia_vmess_19",
+        "🇫🇴 AFOSNE_None_vmess_110",
+        "🇫🇴 AFOSNE_China_vmess_111",
+        "🇮🇪 AFOSNE_Ireland_trojan_112",
+        "🇺🇸 AFOSNE_United States_vmess_113",
+        "🇺🇸 AFOSNE_United States_trojan_114",
+        "🇩🇪 AFOSNE_Germany_trojan_115",
+        "🇸🇬 AFOSNE_Singapore_vmess_116",
+        "🇭🇰 AFOSNE_Hong Kong_trojan_117",
+        "🇬🇧 AFOSNE_United Kingdom_ss_118",
+        "🇻🇳 AFOSNE_Vietnam_vmess_119",
+        "🇩🇪 AFOSNE_Germany_trojan_120",
+        "🇫🇴 AFOSNE_None_vmess_121",
+        "🇰🇷 AFOSNE_South Korea_vmess_122",
+        "🇫🇴 AFOSNE_Netherlands_trojan_123",
+        "🇬🇧 AFOSNE_United Kingdom_vmess_124",
+        "🇫🇷 AFOSNE_France_trojan_125",
+        "🇹🇼 AFOSNE_Taiwan_vmess_126",
+        "🇬🇧 AFOSNE_United Kingdom_ss_127",
+        "🇫🇴 AFOSNE_Netherlands_ss_128",
+        "🇻🇳 AFOSNE_Vietnam_vmess_129",
+        "🇱🇹 AFOSNE_Lithuania_vmess_130",
+        "🇨🇿 AFOSNE_Czechia_vmess_131",
+        "🇻🇳 AFOSNE_Vietnam_vmess_132",
+        "🇫🇴 AFOSNE_None_vmess_133",
+        "🇸🇬 AFOSNE_Singapore_vmess_134",
+        "🇸🇬 AFOSNE_Singapore_vmess_135",
+        "🇹🇼 AFOSNE_Taiwan_vmess_136",
+        "🇫🇴 AFOSNE_None_vmess_137",
+        "🇺🇸 AFOSNE_United States_vmess_138",
+        "🇫🇴 AFOSNE_China_vmess_139",
+        "🇫🇴 AFOSNE_Netherlands_vmess_140",
+        "🇻🇳 AFOSNE_Vietnam_vmess_141",
+        "🇺🇸 AFOSNE_United States_vmess_142",
+        "🇫🇴 AFOSNE_China_vmess_143",
+        "🇫🇴 AFOSNE_None_vmess_144",
+        "🇫🇴 AFOSNE_China_ss_145",
+        "🇰🇷 AFOSNE_South Korea_vmess_146",
+        "🇫🇴 AFOSNE_China_ss_147"
       ]
     },
     {
@@ -406,6 +417,7 @@
       "tag": "HongKong",
       "type": "selector",
       "outbounds": [
+        "🇭🇰 AFOSNE_Hong Kong_trojan_117",
         "proxy"
       ]
     },
@@ -413,9 +425,8 @@
       "tag": "TaiWan",
       "type": "selector",
       "outbounds": [
-        "🇹🇼 AFOSNE_Taiwan_vmess_14",
-        "🇹🇼 AFOSNE_Taiwan_vmess_18",
-        "🇹🇼 AFOSNE_Taiwan_vmess_124",
+        "🇹🇼 AFOSNE_Taiwan_vmess_126",
+        "🇹🇼 AFOSNE_Taiwan_vmess_136",
         "proxy"
       ]
     },
@@ -423,6 +434,9 @@
       "tag": "Singapore",
       "type": "selector",
       "outbounds": [
+        "🇸🇬 AFOSNE_Singapore_vmess_116",
+        "🇸🇬 AFOSNE_Singapore_vmess_134",
+        "🇸🇬 AFOSNE_Singapore_vmess_135",
         "proxy"
       ]
     },
@@ -437,8 +451,13 @@
       "tag": "America",
       "type": "selector",
       "outbounds": [
-        "🇷🇺 AFOSNE_Russia_trojan_13",
-        "🇺🇸 AFOSNE_United States_trojan_16",
+        "🇺🇸 AFOSNE_United States_vmess_12",
+        "🇺🇸 AFOSNE_United States_trojan_15",
+        "🇺🇸 AFOSNE_United States_vmess_16",
+        "🇺🇸 AFOSNE_United States_vmess_113",
+        "🇺🇸 AFOSNE_United States_trojan_114",
+        "🇺🇸 AFOSNE_United States_vmess_138",
+        "🇺🇸 AFOSNE_United States_vmess_142",
         "proxy"
       ]
     },
@@ -495,36 +514,39 @@
         "🇫🇴 AFOSNE_China_trojan_047",
         "🇫🇴 AFOSNE_China_trojan_048",
         "Unknown_ss_11",
-        "🇫🇴 AFOSNE_None_vmess_12",
-        "🇫🇴 AFOSNE_China_ss_15",
-        "🇬🇧 AFOSNE_United Kingdom_trojan_17",
-        "🇬🇧 AFOSNE_United Kingdom_vmess_19",
-        "🇫🇴 AFOSNE_China_vmess_110",
-        "🇫🇴 AFOSNE_None_trojan_111",
-        "🇫🇴 AFOSNE_None_trojan_112",
-        "🇬🇧 AFOSNE_United Kingdom_ss_113",
-        "🇫🇴 AFOSNE_None_vmess_114",
-        "🇫🇴 AFOSNE_None_vmess_115",
-        "🇨🇦 AFOSNE_Canada_vmess_116",
-        "🇫🇴 AFOSNE_None_vmess_117",
-        "🇫🇴 AFOSNE_None_vmess_118",
-        "🇫🇴 AFOSNE_None_vmess_119",
-        "🇬🇧 AFOSNE_United Kingdom_ss_120",
-        "🇫🇴 AFOSNE_Netherlands_ss_121",
-        "🇬🇧 AFOSNE_United Kingdom_ss_122",
-        "🇬🇧 AFOSNE_United Kingdom_ss_123",
-        "🇬🇧 AFOSNE_United Kingdom_vmess_125",
-        "🇫🇴 AFOSNE_None_vmess_126",
-        "🇫🇷 AFOSNE_France_vmess_127",
-        "🇻🇳 AFOSNE_Vietnam_vmess_128",
-        "🇬🇧 AFOSNE_United Kingdom_ss_129",
-        "🇫🇴 AFOSNE_China_ss_130",
-        "🇫🇴 AFOSNE_China_vmess_131",
-        "🇫🇴 AFOSNE_None_vmess_132",
-        "🇫🇴 AFOSNE_Libya_vmess_133",
-        "🇫🇴 AFOSNE_None_vmess_134",
-        "🇫🇴 AFOSNE_China_ss_135",
-        "🇬🇧 AFOSNE_United Kingdom_vmess_136",
+        "🇻🇳 AFOSNE_Vietnam_trojan_13",
+        "🇬🇧 AFOSNE_United Kingdom_trojan_14",
+        "🇻🇳 AFOSNE_Vietnam_trojan_17",
+        "🇩🇪 AFOSNE_Germany_trojan_18",
+        "🇨🇿 AFOSNE_Czechia_vmess_19",
+        "🇫🇴 AFOSNE_None_vmess_110",
+        "🇫🇴 AFOSNE_China_vmess_111",
+        "🇮🇪 AFOSNE_Ireland_trojan_112",
+        "🇩🇪 AFOSNE_Germany_trojan_115",
+        "🇬🇧 AFOSNE_United Kingdom_ss_118",
+        "🇻🇳 AFOSNE_Vietnam_vmess_119",
+        "🇩🇪 AFOSNE_Germany_trojan_120",
+        "🇫🇴 AFOSNE_None_vmess_121",
+        "🇰🇷 AFOSNE_South Korea_vmess_122",
+        "🇫🇴 AFOSNE_Netherlands_trojan_123",
+        "🇬🇧 AFOSNE_United Kingdom_vmess_124",
+        "🇫🇷 AFOSNE_France_trojan_125",
+        "🇬🇧 AFOSNE_United Kingdom_ss_127",
+        "🇫🇴 AFOSNE_Netherlands_ss_128",
+        "🇻🇳 AFOSNE_Vietnam_vmess_129",
+        "🇱🇹 AFOSNE_Lithuania_vmess_130",
+        "🇨🇿 AFOSNE_Czechia_vmess_131",
+        "🇻🇳 AFOSNE_Vietnam_vmess_132",
+        "🇫🇴 AFOSNE_None_vmess_133",
+        "🇫🇴 AFOSNE_None_vmess_137",
+        "🇫🇴 AFOSNE_China_vmess_139",
+        "🇫🇴 AFOSNE_Netherlands_vmess_140",
+        "🇻🇳 AFOSNE_Vietnam_vmess_141",
+        "🇫🇴 AFOSNE_China_vmess_143",
+        "🇫🇴 AFOSNE_None_vmess_144",
+        "🇫🇴 AFOSNE_China_ss_145",
+        "🇰🇷 AFOSNE_South Korea_vmess_146",
+        "🇫🇴 AFOSNE_China_ss_147",
         "proxy"
       ]
     },
@@ -581,41 +603,52 @@
         "🇫🇴 AFOSNE_China_trojan_047",
         "🇫🇴 AFOSNE_China_trojan_048",
         "Unknown_ss_11",
-        "🇫🇴 AFOSNE_None_vmess_12",
-        "🇷🇺 AFOSNE_Russia_trojan_13",
-        "🇹🇼 AFOSNE_Taiwan_vmess_14",
-        "🇫🇴 AFOSNE_China_ss_15",
-        "🇺🇸 AFOSNE_United States_trojan_16",
-        "🇬🇧 AFOSNE_United Kingdom_trojan_17",
-        "🇹🇼 AFOSNE_Taiwan_vmess_18",
-        "🇬🇧 AFOSNE_United Kingdom_vmess_19",
-        "🇫🇴 AFOSNE_China_vmess_110",
-        "🇫🇴 AFOSNE_None_trojan_111",
-        "🇫🇴 AFOSNE_None_trojan_112",
-        "🇬🇧 AFOSNE_United Kingdom_ss_113",
-        "🇫🇴 AFOSNE_None_vmess_114",
-        "🇫🇴 AFOSNE_None_vmess_115",
-        "🇨🇦 AFOSNE_Canada_vmess_116",
-        "🇫🇴 AFOSNE_None_vmess_117",
-        "🇫🇴 AFOSNE_None_vmess_118",
-        "🇫🇴 AFOSNE_None_vmess_119",
-        "🇬🇧 AFOSNE_United Kingdom_ss_120",
-        "🇫🇴 AFOSNE_Netherlands_ss_121",
-        "🇬🇧 AFOSNE_United Kingdom_ss_122",
-        "🇬🇧 AFOSNE_United Kingdom_ss_123",
-        "🇹🇼 AFOSNE_Taiwan_vmess_124",
-        "🇬🇧 AFOSNE_United Kingdom_vmess_125",
-        "🇫🇴 AFOSNE_None_vmess_126",
-        "🇫🇷 AFOSNE_France_vmess_127",
-        "🇻🇳 AFOSNE_Vietnam_vmess_128",
-        "🇬🇧 AFOSNE_United Kingdom_ss_129",
-        "🇫🇴 AFOSNE_China_ss_130",
-        "🇫🇴 AFOSNE_China_vmess_131",
-        "🇫🇴 AFOSNE_None_vmess_132",
-        "🇫🇴 AFOSNE_Libya_vmess_133",
-        "🇫🇴 AFOSNE_None_vmess_134",
-        "🇫🇴 AFOSNE_China_ss_135",
-        "🇬🇧 AFOSNE_United Kingdom_vmess_136"
+        "🇺🇸 AFOSNE_United States_vmess_12",
+        "🇻🇳 AFOSNE_Vietnam_trojan_13",
+        "🇬🇧 AFOSNE_United Kingdom_trojan_14",
+        "🇺🇸 AFOSNE_United States_trojan_15",
+        "🇺🇸 AFOSNE_United States_vmess_16",
+        "🇻🇳 AFOSNE_Vietnam_trojan_17",
+        "🇩🇪 AFOSNE_Germany_trojan_18",
+        "🇨🇿 AFOSNE_Czechia_vmess_19",
+        "🇫🇴 AFOSNE_None_vmess_110",
+        "🇫🇴 AFOSNE_China_vmess_111",
+        "🇮🇪 AFOSNE_Ireland_trojan_112",
+        "🇺🇸 AFOSNE_United States_vmess_113",
+        "🇺🇸 AFOSNE_United States_trojan_114",
+        "🇩🇪 AFOSNE_Germany_trojan_115",
+        "🇸🇬 AFOSNE_Singapore_vmess_116",
+        "🇭🇰 AFOSNE_Hong Kong_trojan_117",
+        "🇬🇧 AFOSNE_United Kingdom_ss_118",
+        "🇻🇳 AFOSNE_Vietnam_vmess_119",
+        "🇩🇪 AFOSNE_Germany_trojan_120",
+        "🇫🇴 AFOSNE_None_vmess_121",
+        "🇰🇷 AFOSNE_South Korea_vmess_122",
+        "🇫🇴 AFOSNE_Netherlands_trojan_123",
+        "🇬🇧 AFOSNE_United Kingdom_vmess_124",
+        "🇫🇷 AFOSNE_France_trojan_125",
+        "🇹🇼 AFOSNE_Taiwan_vmess_126",
+        "🇬🇧 AFOSNE_United Kingdom_ss_127",
+        "🇫🇴 AFOSNE_Netherlands_ss_128",
+        "🇻🇳 AFOSNE_Vietnam_vmess_129",
+        "🇱🇹 AFOSNE_Lithuania_vmess_130",
+        "🇨🇿 AFOSNE_Czechia_vmess_131",
+        "🇻🇳 AFOSNE_Vietnam_vmess_132",
+        "🇫🇴 AFOSNE_None_vmess_133",
+        "🇸🇬 AFOSNE_Singapore_vmess_134",
+        "🇸🇬 AFOSNE_Singapore_vmess_135",
+        "🇹🇼 AFOSNE_Taiwan_vmess_136",
+        "🇫🇴 AFOSNE_None_vmess_137",
+        "🇺🇸 AFOSNE_United States_vmess_138",
+        "🇫🇴 AFOSNE_China_vmess_139",
+        "🇫🇴 AFOSNE_Netherlands_vmess_140",
+        "🇻🇳 AFOSNE_Vietnam_vmess_141",
+        "🇺🇸 AFOSNE_United States_vmess_142",
+        "🇫🇴 AFOSNE_China_vmess_143",
+        "🇫🇴 AFOSNE_None_vmess_144",
+        "🇫🇴 AFOSNE_China_ss_145",
+        "🇰🇷 AFOSNE_South Korea_vmess_146",
+        "🇫🇴 AFOSNE_China_ss_147"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -638,7 +671,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10801,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -650,7 +683,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10802,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -662,7 +695,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10803,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -674,7 +707,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10804,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -686,7 +719,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10805,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -698,7 +731,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10806,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -710,7 +743,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10807,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -722,7 +755,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10808,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -734,7 +767,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10809,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -746,7 +779,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10810,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -758,7 +791,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10811,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -770,7 +803,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10812,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -782,7 +815,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10813,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -794,7 +827,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10814,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -806,7 +839,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10815,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -818,7 +851,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10816,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -830,7 +863,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10817,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -842,7 +875,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10818,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -854,7 +887,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10819,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -866,7 +899,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10820,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -878,7 +911,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10821,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -890,7 +923,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10822,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -902,7 +935,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10823,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -914,7 +947,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10824,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -926,7 +959,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10825,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -938,7 +971,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10826,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -950,7 +983,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10827,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -962,7 +995,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10828,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -974,7 +1007,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10829,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -986,7 +1019,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10830,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -998,7 +1031,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10831,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1010,7 +1043,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10832,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1022,7 +1055,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10833,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1034,7 +1067,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10834,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1046,7 +1079,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10835,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1058,7 +1091,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10836,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1070,7 +1103,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10837,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1082,7 +1115,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10838,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1094,7 +1127,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10839,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1106,7 +1139,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10840,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1118,7 +1151,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10841,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1130,7 +1163,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10844,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1142,7 +1175,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10845,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1154,7 +1187,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10846,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1166,7 +1199,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10847,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1178,7 +1211,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10848,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1190,7 +1223,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10849,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1202,7 +1235,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10850,
-      "password": "3cae5a1a-2336-4b2d-9c2e-73c4d264207d",
+      "password": "46bf1162-2643-42fa-b4dc-a29cdaeb8a92",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1218,84 +1251,42 @@
       "password": "6601fb90e9b3"
     },
     {
-      "tag": "🇫🇴 AFOSNE_None_vmess_12",
+      "tag": "🇺🇸 AFOSNE_United States_vmess_12",
       "type": "vmess",
-      "server": "cfcdn3.sanfencdn9.com",
+      "server": "13.226.120.0",
       "server_port": 80,
-      "uuid": "d0a3e08a-d26f-45bd-ba3c-6387f9182633",
+      "uuid": "fa7af35b-3f0b-4404-987e-884d8e7d25db",
       "security": "auto",
       "alter_id": 0,
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "agzbjszujp4.yofnhkfc.xyz"
+          "Host": "jpli.edge.233.tw"
         },
-        "path": "/video/ibCT6z55"
+        "path": "/geg/45",
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
       }
     },
     {
-      "tag": "🇷🇺 AFOSNE_Russia_trojan_13",
+      "tag": "🇻🇳 AFOSNE_Vietnam_trojan_13",
       "type": "trojan",
-      "server": "188.42.145.11",
+      "server": "115.79.238.34",
       "server_port": 443,
-      "password": "9fec66cf-1006-4c74-acc5-601fdf8a71b9",
+      "password": "fbccfed7-1aeb-416a-a4fd-7af1747f9f3b",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "k2us2.djjc.sbs"
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/djjc/us2",
-        "headers": {
-          "Host": "k2us2.djjc.sbs"
-        }
+        "server_name": "lienquan.garena.vn"
       }
     },
     {
-      "tag": "🇹🇼 AFOSNE_Taiwan_vmess_14",
-      "type": "vmess",
-      "server": "118.167.73.7",
-      "server_port": 4443,
-      "uuid": "ef3841cf-2556-4d9c-ac8d-c0e5e978ab86",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_China_ss_15",
-      "type": "shadowsocks",
-      "server": "service.ouluyun9803.com",
-      "server_port": 21003,
-      "method": "chacha20-ietf-poly1305",
-      "password": "cfa17a0d-5e7d-4871-976e-f116e0818123"
-    },
-    {
-      "tag": "🇺🇸 AFOSNE_United States_trojan_16",
+      "tag": "🇬🇧 AFOSNE_United Kingdom_trojan_14",
       "type": "trojan",
-      "server": "167.68.11.221",
-      "server_port": 443,
-      "password": "9fec66cf-1006-4c74-acc5-601fdf8a71b9",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "k6us3.djjc.sbs"
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/djjc/us3",
-        "headers": {
-          "Host": "k6us3.djjc.sbs"
-        }
-      }
-    },
-    {
-      "tag": "🇬🇧 AFOSNE_United Kingdom_trojan_17",
-      "type": "trojan",
-      "server": "18.171.124.136",
+      "server": "13.43.247.96",
       "server_port": 22222,
-      "password": "telegram-id-directvpn",
+      "password": "telegram-id-privatevpns",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1303,81 +1294,18 @@
       }
     },
     {
-      "tag": "🇹🇼 AFOSNE_Taiwan_vmess_18",
-      "type": "vmess",
-      "server": "b23.ntbq.dynu.net",
-      "server_port": 2024,
-      "uuid": "2358c269-178a-43c0-a208-c6cc52d398f9",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇬🇧 AFOSNE_United Kingdom_vmess_19",
-      "type": "vmess",
-      "server": "172.99.190.109",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "172.99.190.109"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "172.99.190.109"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_China_vmess_110",
-      "type": "vmess",
-      "server": "183.236.48.169",
-      "server_port": 1002,
-      "uuid": "229ccd44-c56c-3947-88de-849dd70c180d",
-      "security": "auto",
-      "alter_id": 2,
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_None_trojan_111",
+      "tag": "🇺🇸 AFOSNE_United States_trojan_15",
       "type": "trojan",
-      "server": "104.18.213.21",
-      "server_port": 2096,
-      "password": "DUvWfvC7xH",
+      "server": "los16.ttddd.xyz",
+      "server_port": 443,
+      "password": "27876_t7d7f4e3f",
       "tls": {
         "enabled": true,
-        "insecure": true,
-        "server_name": "my.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd"
+        "insecure": true
       }
     },
     {
-      "tag": "🇫🇴 AFOSNE_None_trojan_112",
-      "type": "trojan",
-      "server": "104.25.255.254",
-      "server_port": 443,
-      "password": "a6292090-afe1-4640-97a7-4f1d1d877cf1",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "hdfy8c1.foriran.me"
-      }
-    },
-    {
-      "tag": "🇬🇧 AFOSNE_United Kingdom_ss_113",
-      "type": "shadowsocks",
-      "server": "series-a2-me.samanehha.co",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "Bog0ELmMM9DSxDdQ"
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_None_vmess_114",
+      "tag": "🇺🇸 AFOSNE_United States_vmess_16",
       "type": "vmess",
       "server": "s1c.v2.v001sss.xyz",
       "server_port": 2082,
@@ -1394,46 +1322,48 @@
       }
     },
     {
-      "tag": "🇫🇴 AFOSNE_None_vmess_115",
-      "type": "vmess",
-      "server": "s1c.v2.v001sss.xyz",
-      "server_port": 2082,
-      "uuid": "112ac36f-3f53-4e26-8371-d25c028e1b9a",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "s1c.v2.v001sss.xyz"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇨🇦 AFOSNE_Canada_vmess_116",
-      "type": "vmess",
-      "server": "5.101.222.5",
+      "tag": "🇻🇳 AFOSNE_Vietnam_trojan_17",
+      "type": "trojan",
+      "server": "skyht2.vpndata.vn",
       "server_port": 443,
-      "uuid": "a09e13dc-cbbf-4585-b46b-2d86de0e9d3f",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp",
+      "password": "fbccfed7-1aeb-416a-a4fd-7af1747f9f3b",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "sahar2.serveminecraft.net"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "sahar2.serveminecraft.net"
-        },
-        "path": "/@forwardv2ray"
+        "server_name": "lienquan.garena.vn"
       }
     },
     {
-      "tag": "🇫🇴 AFOSNE_None_vmess_117",
+      "tag": "🇩🇪 AFOSNE_Germany_trojan_18",
+      "type": "trojan",
+      "server": "3.74.209.85",
+      "server_port": 22222,
+      "password": "telegram-id-privatevpns",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "trojan.miwan.co.uk"
+      }
+    },
+    {
+      "tag": "🇨🇿 AFOSNE_Czechia_vmess_19",
+      "type": "vmess",
+      "server": "77.75.230.125",
+      "server_port": 8080,
+      "uuid": "d466dd36-8b86-48b7-b0f0-67e7d128de6c",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "77.75.230.125"
+        },
+        "path": "/vmess"
+      }
+    },
+    {
+      "tag": "🇫🇴 AFOSNE_None_vmess_110",
       "type": "vmess",
       "server": "104.17.25.1",
       "server_port": 80,
@@ -1450,24 +1380,388 @@
       }
     },
     {
-      "tag": "🇫🇴 AFOSNE_None_vmess_118",
+      "tag": "🇫🇴 AFOSNE_China_vmess_111",
       "type": "vmess",
-      "server": "cf.178820225.xyz",
-      "server_port": 80,
-      "uuid": "8fa261c0-ae8d-4aee-8f8b-1604b6f78f4a",
+      "server": "183.236.48.169",
+      "server_port": 1002,
+      "uuid": "229ccd44-c56c-3947-88de-849dd70c180d",
+      "security": "auto",
+      "alter_id": 2,
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇪 AFOSNE_Ireland_trojan_112",
+      "type": "trojan",
+      "server": "52.17.78.251",
+      "server_port": 22222,
+      "password": "telegram-id-privatevpns",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "trojan.miwan.co.uk"
+      }
+    },
+    {
+      "tag": "🇺🇸 AFOSNE_United States_vmess_113",
+      "type": "vmess",
+      "server": "D029.ADVANCED-NODES-CHICKENFARMS.TOP",
+      "server_port": 443,
+      "uuid": "f8ece721-95f2-490f-bb5e-9498ddba186e",
       "security": "auto",
       "alter_id": 0,
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "ams.178820225.xyz"
+          "Host": "D029.ADVANCED-NODES-CHICKENFARMS.TOP"
         },
-        "path": "/h5e65fd"
+        "path": "/"
       }
     },
     {
-      "tag": "🇫🇴 AFOSNE_None_vmess_119",
+      "tag": "🇺🇸 AFOSNE_United States_trojan_114",
+      "type": "trojan",
+      "server": "173.245.58.34",
+      "server_port": 2096,
+      "password": "DUvWfvC7xH",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "my1.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd"
+      }
+    },
+    {
+      "tag": "🇩🇪 AFOSNE_Germany_trojan_115",
+      "type": "trojan",
+      "server": "5.104.108.109",
+      "server_port": 443,
+      "password": "56e1f11c-1217-46ab-b127-6afbc23bafba",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "20-24-33-134.nhost.00cdn.com"
+      }
+    },
+    {
+      "tag": "🇸🇬 AFOSNE_Singapore_vmess_116",
+      "type": "vmess",
+      "server": "146.190.103.39",
+      "server_port": 2023,
+      "uuid": "8e82b259-dcf8-466c-acd1-02616af34386",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "imo.im"
+        },
+        "path": "/FREE-not_for_sale"
+      }
+    },
+    {
+      "tag": "🇭🇰 AFOSNE_Hong Kong_trojan_117",
+      "type": "trojan",
+      "server": "tro.at678.top",
+      "server_port": 4205,
+      "password": "901a6458-7c68-47c9-8500-75e73c4365a8",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "karyl.cc"
+      }
+    },
+    {
+      "tag": "🇬🇧 AFOSNE_United Kingdom_ss_118",
+      "type": "shadowsocks",
+      "server": "13.43.178.226",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "u17T3BvpYaaiuW2c"
+    },
+    {
+      "tag": "🇻🇳 AFOSNE_Vietnam_vmess_119",
+      "type": "vmess",
+      "server": "115.79.238.34",
+      "server_port": 80,
+      "uuid": "fbccfed7-1aeb-416a-a4fd-7af1747f9f3b",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "skyht2.vpndata.vn"
+        },
+        "path": "/VPNDATA.VPN"
+      }
+    },
+    {
+      "tag": "🇩🇪 AFOSNE_Germany_trojan_120",
+      "type": "trojan",
+      "server": "3.65.186.109",
+      "server_port": 22222,
+      "password": "telegram-id-directvpn",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "trojan.miwan.co.uk"
+      }
+    },
+    {
+      "tag": "🇫🇴 AFOSNE_None_vmess_121",
+      "type": "vmess",
+      "server": "104.17.25.1",
+      "server_port": 80,
+      "uuid": "83c19463-f966-4adb-a7d8-b127825ffab2",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "kr.catnipballs.gay"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "🇰🇷 AFOSNE_South Korea_vmess_122",
+      "type": "vmess",
+      "server": "185.214.103.249",
+      "server_port": 8002,
+      "uuid": "e096b14e-b746-3dda-bc95-a435b4b2aceb",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "cache-hk-1.cn-db.top"
+        },
+        "path": "/db00"
+      }
+    },
+    {
+      "tag": "🇫🇴 AFOSNE_Netherlands_trojan_123",
+      "type": "trojan",
+      "server": "188.114.98.0",
+      "server_port": 443,
+      "password": "01596265-168b-46a7-bcb7-25662c7a9546",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "hdfy7c1.foriran2.eu.org"
+      }
+    },
+    {
+      "tag": "🇬🇧 AFOSNE_United Kingdom_vmess_124",
+      "type": "vmess",
+      "server": "185.76.48.122",
+      "server_port": 443,
+      "uuid": "8a72e0a0-4767-4bd2-b329-72906762eff8",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "kosar.serveminecraft.net"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "kosar.serveminecraft.net"
+        },
+        "path": "/@forwardv2ray"
+      }
+    },
+    {
+      "tag": "🇫🇷 AFOSNE_France_trojan_125",
+      "type": "trojan",
+      "server": "13.37.78.52",
+      "server_port": 22222,
+      "password": "telegram-id-privatevpns",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "trojan.miwan.co.uk"
+      }
+    },
+    {
+      "tag": "🇹🇼 AFOSNE_Taiwan_vmess_126",
+      "type": "vmess",
+      "server": "61.228.149.57",
+      "server_port": 4443,
+      "uuid": "ef3841cf-2556-4d9c-ac8d-c0e5e978ab86",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇬🇧 AFOSNE_United Kingdom_ss_127",
+      "type": "shadowsocks",
+      "server": "13.43.178.226",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "u17T3BvpYaaiuW2c"
+    },
+    {
+      "tag": "🇫🇴 AFOSNE_Netherlands_ss_128",
+      "type": "shadowsocks",
+      "server": "146.190.237.193",
+      "server_port": 55362,
+      "method": "chacha20-ietf-poly1305",
+      "password": "DwB8qIL30ZyF5thpnCEhSv"
+    },
+    {
+      "tag": "🇻🇳 AFOSNE_Vietnam_vmess_129",
+      "type": "vmess",
+      "server": "103.27.237.185",
+      "server_port": 80,
+      "uuid": "67d5296e-a2ee-4a9f-89e6-365da540c55d",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "vn2.4gchill.com"
+        },
+        "path": "/4gchill.com"
+      }
+    },
+    {
+      "tag": "🇱🇹 AFOSNE_Lithuania_vmess_130",
+      "type": "vmess",
+      "server": "94.131.13.110",
+      "server_port": 80,
+      "uuid": "d3e40d59-b53c-4f4e-8867-bb598be864d2",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "lt1-vmess.sshmax.xyz"
+        },
+        "path": "/vmess"
+      }
+    },
+    {
+      "tag": "🇨🇿 AFOSNE_Czechia_vmess_131",
+      "type": "vmess",
+      "server": "77.75.230.125",
+      "server_port": 8080,
+      "uuid": "d466dd36-8b86-48b7-b0f0-67e7d128de6c",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "77.75.230.125"
+        },
+        "path": "/vmess"
+      }
+    },
+    {
+      "tag": "🇻🇳 AFOSNE_Vietnam_vmess_132",
+      "type": "vmess",
+      "server": "vn2.4gchill.com",
+      "server_port": 80,
+      "uuid": "67d5296e-a2ee-4a9f-89e6-365da540c55d",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "dl.ks.freefiremobile.com"
+        },
+        "path": "/4gchill.com"
+      }
+    },
+    {
+      "tag": "🇫🇴 AFOSNE_None_vmess_133",
+      "type": "vmess",
+      "server": "104.17.25.1",
+      "server_port": 80,
+      "uuid": "83c19463-f966-4adb-a7d8-b127825ffab2",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "kr.catnipballs.gay"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "🇸🇬 AFOSNE_Singapore_vmess_134",
+      "type": "vmess",
+      "server": "146.190.103.39",
+      "server_port": 2023,
+      "uuid": "8e82b259-dcf8-466c-acd1-02616af34386",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "imo.im"
+        },
+        "path": "/FREE-not_for_sale"
+      }
+    },
+    {
+      "tag": "🇸🇬 AFOSNE_Singapore_vmess_135",
+      "type": "vmess",
+      "server": "213.35.113.150",
+      "server_port": 80,
+      "uuid": "eaf5e01b-f27d-44cf-94ae-87196143eef9",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "213.35.113.150"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "🇹🇼 AFOSNE_Taiwan_vmess_136",
+      "type": "vmess",
+      "server": "nb24.ntbq.dynu.net",
+      "server_port": 4443,
+      "uuid": "1cc969d3-1df8-4794-a5cc-9231fe0e4710",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇫🇴 AFOSNE_None_vmess_137",
+      "type": "vmess",
+      "server": "104.17.25.1",
+      "server_port": 80,
+      "uuid": "d6664518-c8e1-42cf-f2c1-d33dcc01a8a6",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sgvpn.catnipballs.gay"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "🇺🇸 AFOSNE_United States_vmess_138",
       "type": "vmess",
       "server": "cfcdn2.sanfencdn9.com",
       "server_port": 2052,
@@ -1484,194 +1778,49 @@
       }
     },
     {
-      "tag": "🇬🇧 AFOSNE_United Kingdom_ss_120",
-      "type": "shadowsocks",
-      "server": "series-a2.samanehha.co",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "mps3FwmDjLrWaOVg"
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_Netherlands_ss_121",
-      "type": "shadowsocks",
-      "server": "146.190.237.193",
-      "server_port": 55362,
-      "method": "chacha20-ietf-poly1305",
-      "password": "DwB8qIL30ZyF5thpnCEhSv"
-    },
-    {
-      "tag": "🇬🇧 AFOSNE_United Kingdom_ss_122",
-      "type": "shadowsocks",
-      "server": "Fast_2ray_Telchannelll.fast2rayy.eu.org",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "Bog0ELmMM9DSxDdQ"
-    },
-    {
-      "tag": "🇬🇧 AFOSNE_United Kingdom_ss_123",
-      "type": "shadowsocks",
-      "server": "series-a2-me.samanehha.co",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "Bog0ELmMM9DSxDdQ"
-    },
-    {
-      "tag": "🇹🇼 AFOSNE_Taiwan_vmess_124",
+      "tag": "🇫🇴 AFOSNE_China_vmess_139",
       "type": "vmess",
-      "server": "nb24.ntbq.dynu.net",
-      "server_port": 4443,
-      "uuid": "1cc969d3-1df8-4794-a5cc-9231fe0e4710",
+      "server": "183.236.48.169",
+      "server_port": 1002,
+      "uuid": "229ccd44-c56c-3947-88de-849dd70c180d",
       "security": "auto",
-      "alter_id": 0,
+      "alter_id": 2,
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇬🇧 AFOSNE_United Kingdom_vmess_125",
+      "tag": "🇫🇴 AFOSNE_Netherlands_vmess_140",
       "type": "vmess",
-      "server": "172.99.190.109",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "server": "103.214.68.57",
+      "server_port": 10001,
+      "uuid": "ebca5f68-bf59-4081-e658-f158839c2f5c",
       "security": "auto",
       "alter_id": 0,
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "172.99.190.109"
-      },
+        "server_name": ""
+      }
+    },
+    {
+      "tag": "🇻🇳 AFOSNE_Vietnam_vmess_141",
+      "type": "vmess",
+      "server": "vn04.4gchill.com",
+      "server_port": 80,
+      "uuid": "67d5296e-a2ee-4a9f-89e6-365da540c55d",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "172.99.190.109"
+          "Host": "dl.ks.freefiremobile.com"
         },
         "path": "/"
       }
     },
     {
-      "tag": "🇫🇴 AFOSNE_None_vmess_126",
-      "type": "vmess",
-      "server": "cf.178820225.xyz",
-      "server_port": 80,
-      "uuid": "8fa261c0-ae8d-4aee-8f8b-1604b6f78f4a",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "ams.178820225.xyz"
-        },
-        "path": "/h5e65fd"
-      }
-    },
-    {
-      "tag": "🇫🇷 AFOSNE_France_vmess_127",
-      "type": "vmess",
-      "server": "94.176.183.12",
-      "server_port": 443,
-      "uuid": "f21bcdb6-5dc6-4c4b-9a34-3b185f6747c4",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "tabyan205.serveftp.com"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "tabyan205.serveftp.com"
-        },
-        "path": "/@forwardv2ray"
-      }
-    },
-    {
-      "tag": "🇻🇳 AFOSNE_Vietnam_vmess_128",
-      "type": "vmess",
-      "server": "3SAO.5GTOCDOCAO.COM",
-      "server_port": 80,
-      "uuid": "eb9e8a52-0fec-4a10-8d16-af3b32874933",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "lienquan.garena.vn"
-        },
-        "path": "/5gtocdocao.com"
-      }
-    },
-    {
-      "tag": "🇬🇧 AFOSNE_United Kingdom_ss_129",
-      "type": "shadowsocks",
-      "server": "jseyu.arvancode.eu.Org",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "Bog0ELmMM9DSxDdQ"
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_China_ss_130",
-      "type": "shadowsocks",
-      "server": "service.ouluyun9803.com",
-      "server_port": 26668,
-      "method": "chacha20-ietf-poly1305",
-      "password": "cfa17a0d-5e7d-4871-976e-f116e0818123"
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_China_vmess_131",
-      "type": "vmess",
-      "server": "data-us-v1.shwjfkw.cn",
-      "server_port": 20401,
-      "uuid": "b1478e24-4916-3abe-8f17-15931012ecbe",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "data-us-v1.shwjfkw.cn"
-        },
-        "path": "/debian"
-      }
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_None_vmess_132",
-      "type": "vmess",
-      "server": "104.17.25.1",
-      "server_port": 80,
-      "uuid": "d6664518-c8e1-42cf-f2c1-d33dcc01a8a6",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "sgvpn.catnipballs.gay"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_Libya_vmess_133",
-      "type": "vmess",
-      "server": "197.215.140.235",
-      "server_port": 80,
-      "uuid": "f21bcdb6-5dc6-4c4b-9a34-3b185f6747c4",
-      "security": "auto",
-      "alter_id": 0,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "tabyan205.serveftp.com"
-        },
-        "path": "/@forwardv2ray"
-      }
-    },
-    {
-      "tag": "🇫🇴 AFOSNE_None_vmess_134",
+      "tag": "🇺🇸 AFOSNE_United States_vmess_142",
       "type": "vmess",
       "server": "s1c.v2.v001sss.xyz",
       "server_port": 2082,
@@ -1688,7 +1837,41 @@
       }
     },
     {
-      "tag": "🇫🇴 AFOSNE_China_ss_135",
+      "tag": "🇫🇴 AFOSNE_China_vmess_143",
+      "type": "vmess",
+      "server": "data-us-v1.shwjfkw.cn",
+      "server_port": 20401,
+      "uuid": "b1478e24-4916-3abe-8f17-15931012ecbe",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "data-us-v1.shwjfkw.cn"
+        },
+        "path": "/debian"
+      }
+    },
+    {
+      "tag": "🇫🇴 AFOSNE_None_vmess_144",
+      "type": "vmess",
+      "server": "cf.178820225.xyz",
+      "server_port": 80,
+      "uuid": "8fa261c0-ae8d-4aee-8f8b-1604b6f78f4a",
+      "security": "auto",
+      "alter_id": 0,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "ams.178820225.xyz"
+        },
+        "path": "/h5e65fd"
+      }
+    },
+    {
+      "tag": "🇫🇴 AFOSNE_China_ss_145",
       "type": "shadowsocks",
       "server": "service.ouluyun9803.com",
       "server_port": 21003,
@@ -1696,26 +1879,29 @@
       "password": "cfa17a0d-5e7d-4871-976e-f116e0818123"
     },
     {
-      "tag": "🇬🇧 AFOSNE_United Kingdom_vmess_136",
+      "tag": "🇰🇷 AFOSNE_South Korea_vmess_146",
       "type": "vmess",
-      "server": "yx.zhke.cf",
-      "server_port": 443,
-      "uuid": "3b89f882-0c3f-4144-811d-91fce7ab3c05",
+      "server": "185.214.103.249",
+      "server_port": 8002,
+      "uuid": "e096b14e-b746-3dda-bc95-a435b4b2aceb",
       "security": "auto",
       "alter_id": 0,
       "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "h196-fr.kxnn.eu.org"
-      },
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "h196-fr.kxnn.eu.org"
+          "Host": "cache-hk-1.cn-db.top"
         },
-        "path": "/D26xvdqUdCpvvPTz4R"
+        "path": "/db00"
       }
+    },
+    {
+      "tag": "🇫🇴 AFOSNE_China_ss_147",
+      "type": "shadowsocks",
+      "server": "service.ouluyun9803.com",
+      "server_port": 26668,
+      "method": "chacha20-ietf-poly1305",
+      "password": "cfa17a0d-5e7d-4871-976e-f116e0818123"
     }
   ],
   "route": {
