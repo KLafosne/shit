@@ -29,7 +29,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10801
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -37,7 +37,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10802
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -45,7 +45,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10803
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -53,7 +53,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10804
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -61,7 +61,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10805
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -69,7 +69,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10806
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -77,7 +77,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10807
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -85,7 +85,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10808
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -93,7 +93,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10809
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -101,7 +101,7 @@ proxies:
   type: trojan
   server: tiananmen.19890604.day
   port: 10810
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -109,7 +109,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10811
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -117,7 +117,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10812
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -125,7 +125,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10813
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -133,7 +133,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10814
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -141,7 +141,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10815
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -149,7 +149,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10816
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -157,7 +157,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10817
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -165,7 +165,7 @@ proxies:
   type: trojan
   server: xijinping.19890604.day
   port: 10818
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -173,7 +173,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10819
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -181,7 +181,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10820
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -189,7 +189,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10821
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -197,7 +197,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10822
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -205,7 +205,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10823
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -213,7 +213,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10824
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -221,7 +221,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10825
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -229,7 +229,7 @@ proxies:
   type: trojan
   server: falungong.19890604.day
   port: 10826
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -237,7 +237,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10827
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -245,7 +245,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10828
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -253,7 +253,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10829
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -261,7 +261,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10830
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -269,7 +269,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10831
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -277,7 +277,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10832
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -285,7 +285,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10833
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -293,7 +293,7 @@ proxies:
   type: trojan
   server: tank.19890604.day
   port: 10834
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -301,7 +301,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10835
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -309,7 +309,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10836
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -317,7 +317,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10837
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -325,7 +325,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10838
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -333,7 +333,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10839
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -341,7 +341,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10840
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -349,7 +349,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10841
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -357,7 +357,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10844
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -365,7 +365,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10845
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -373,7 +373,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10846
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -381,7 +381,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10847
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -389,7 +389,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10848
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -397,7 +397,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10849
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -405,7 +405,7 @@ proxies:
   type: trojan
   server: xibaozi.19890604.day
   port: 10850
-  password: 4c9e2cb8-5550-4898-a88b-10dc9ab4c029
+  password: 5bfc0f1b-6685-4700-b491-3c9f27ea3c85
   udp: true
   sni: cloudflare.node-ssl.cdn-alibaba.com
   skip-cert-verify: true
@@ -685,7 +685,7 @@ proxies:
     headers:
       Host: skyht2.vpndata.vn
   udp: true
-- name: AFOSNE_None_vmess_127
+- name: AFOSNE_United States_vmess_127
   server: cfcdn2.sanfencdn9.com
   port: 2052
   type: vmess
@@ -856,7 +856,7 @@ proxy-groups:
   - AFOSNE_Estonia_vmess_124
   - AFOSNE_United States_vmess_125
   - AFOSNE_Vietnam_vmess_126
-  - AFOSNE_None_vmess_127
+  - AFOSNE_United States_vmess_127
   - AFOSNE_United Kingdom_ss_128
   - AFOSNE_China_ss_129
   - AFOSNE_China_vmess_130
@@ -944,7 +944,7 @@ proxy-groups:
   - AFOSNE_Estonia_vmess_124
   - AFOSNE_United States_vmess_125
   - AFOSNE_Vietnam_vmess_126
-  - AFOSNE_None_vmess_127
+  - AFOSNE_United States_vmess_127
   - AFOSNE_United Kingdom_ss_128
   - AFOSNE_China_ss_129
   - AFOSNE_China_vmess_130
