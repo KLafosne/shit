@@ -162,7 +162,7 @@
         "🇫🇴 AFOSNE_Netherlands_vmess_17",
         "🇺🇸 AFOSNE_United States_vmess_18",
         "🇬🇧 AFOSNE_United Kingdom_trojan_19",
-        "🇺🇸 AFOSNE_United States_vmess_110",
+        "🇫🇴 AFOSNE_None_vmess_110",
         "🇫🇴 AFOSNE_South Africa_ss_111",
         "🇷🇺 AFOSNE_Russia_vmess_112",
         "🇫🇴 AFOSNE_Netherlands_trojan_113",
@@ -452,7 +452,6 @@
       "outbounds": [
         "🇺🇸 AFOSNE_United States_trojan_14",
         "🇺🇸 AFOSNE_United States_vmess_18",
-        "🇺🇸 AFOSNE_United States_vmess_110",
         "🇷🇺 AFOSNE_Russia_vmess_112",
         "🇺🇸 AFOSNE_United States_vmess_128",
         "🇺🇸 AFOSNE_United States_vmess_131",
@@ -520,6 +519,7 @@
         "🇫🇴 AFOSNE_China_trojan_16",
         "🇫🇴 AFOSNE_Netherlands_vmess_17",
         "🇬🇧 AFOSNE_United Kingdom_trojan_19",
+        "🇫🇴 AFOSNE_None_vmess_110",
         "🇫🇴 AFOSNE_South Africa_ss_111",
         "🇫🇴 AFOSNE_Netherlands_trojan_113",
         "🇬🇧 AFOSNE_United Kingdom_ss_114",
@@ -605,7 +605,7 @@
         "🇫🇴 AFOSNE_Netherlands_vmess_17",
         "🇺🇸 AFOSNE_United States_vmess_18",
         "🇬🇧 AFOSNE_United Kingdom_trojan_19",
-        "🇺🇸 AFOSNE_United States_vmess_110",
+        "🇫🇴 AFOSNE_None_vmess_110",
         "🇫🇴 AFOSNE_South Africa_ss_111",
         "🇷🇺 AFOSNE_Russia_vmess_112",
         "🇫🇴 AFOSNE_Netherlands_trojan_113",
@@ -662,7 +662,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10801,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -674,7 +674,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10802,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -686,7 +686,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10803,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -698,7 +698,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10804,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -710,7 +710,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10805,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -722,7 +722,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10806,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -734,7 +734,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10807,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -746,7 +746,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10808,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -758,7 +758,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10809,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -770,7 +770,7 @@
       "type": "trojan",
       "server": "tiananmen.19890604.day",
       "server_port": 10810,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -782,7 +782,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10811,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -794,7 +794,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10812,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -806,7 +806,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10813,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -818,7 +818,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10814,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -830,7 +830,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10815,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -842,7 +842,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10816,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -854,7 +854,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10817,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -866,7 +866,7 @@
       "type": "trojan",
       "server": "xijinping.19890604.day",
       "server_port": 10818,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -878,7 +878,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10819,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -890,7 +890,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10820,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -902,7 +902,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10821,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -914,7 +914,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10822,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -926,7 +926,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10823,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -938,7 +938,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10824,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -950,7 +950,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10825,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -962,7 +962,7 @@
       "type": "trojan",
       "server": "falungong.19890604.day",
       "server_port": 10826,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -974,7 +974,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10827,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -986,7 +986,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10828,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -998,7 +998,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10829,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1010,7 +1010,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10830,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1022,7 +1022,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10831,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1034,7 +1034,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10832,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1046,7 +1046,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10833,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1058,7 +1058,7 @@
       "type": "trojan",
       "server": "tank.19890604.day",
       "server_port": 10834,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1070,7 +1070,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10835,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1082,7 +1082,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10836,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1094,7 +1094,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10837,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1106,7 +1106,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10838,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1118,7 +1118,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10839,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1130,7 +1130,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10840,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1142,7 +1142,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10841,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1154,7 +1154,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10844,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1166,7 +1166,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10845,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1178,7 +1178,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10846,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1190,7 +1190,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10847,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1202,7 +1202,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10848,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1214,7 +1214,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10849,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1226,7 +1226,7 @@
       "type": "trojan",
       "server": "xibaozi.19890604.day",
       "server_port": 10850,
-      "password": "4fd34c77-06fd-4420-b4a1-388532c56e03",
+      "password": "0caccd4f-6ce7-485d-8eaf-a083d4b6bd06",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -1353,7 +1353,7 @@
       }
     },
     {
-      "tag": "🇺🇸 AFOSNE_United States_vmess_110",
+      "tag": "🇫🇴 AFOSNE_None_vmess_110",
       "type": "vmess",
       "server": "www.crispyrainbow.biz",
       "server_port": 8080,
